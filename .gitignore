@@ -1,0 +1,15 @@
+# Données
+# Les données de ce projet sont FICTIVES et légères : elles sont publiées volontairement
+# pour que le projet soit reproductible. Dans un vrai projet (données personnelles,
+# fichiers volumineux), décommente les 4 lignes suivantes.
+# data/raw/*
+# !data/raw/.gitkeep
+# data/processed/*
+# !data/processed/.gitkeep
+
+# Secrets : mots de passe et clés d'API
+.env
+
+# Fichiers techniques générés automatiquement
+.ipynb_checkpoints/
+__pycache__/

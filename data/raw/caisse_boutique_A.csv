@@ -1,0 +1,1841 @@
+﻿ticket_id;date_vente;heure;code_boutique;produit;famille;quantite;montant_ttc
+A260309-0001;2026-03-09;07:02;001;Baguette tradition;Pains;7;9,10
+A260309-0002;2026-03-09;07:03;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0003;2026-03-09;07:05;001;Croissant;Viennoiseries;1;1,20
+A260309-0003;2026-03-09;07:05;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0004;2026-03-09;07:05;001;Baguette tradition;Pains;3;3,90
+A260309-0004;2026-03-09;07:05;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0005;2026-03-09;07:15;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0005;2026-03-09;07:15;001;Baguette tradition;Pains;1;1,30
+A260309-0006;2026-03-09;07:21;001;Baguette tradition;Pains;2;2,60
+A260309-0007;2026-03-09;07:22;001;Baguette tradition;Pains;1;1,30
+A260309-0007;2026-03-09;07:22;001;Croissant;Viennoiseries;1;1,20
+A260309-0008;2026-03-09;07:24;001;Baguette tradition;Pains;1;1,30
+A260309-0009;2026-03-09;07:25;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260309-0009;2026-03-09;07:25;001;Pain au chocolat;Viennoiseries;2;2,80
+A260309-0010;2026-03-09;07:28;001;Croissant;Viennoiseries;1;1,20
+A260309-0011;2026-03-09;07:32;001;Croissant;Viennoiseries;1;1,20
+A260309-0011;2026-03-09;07:32;001;Baguette tradition;Pains;1;1,30
+A260309-0012;2026-03-09;07:37;001;Quiche lorraine;Snacking;1;4,20
+A260309-0012;2026-03-09;07:37;001;Baguette tradition;Pains;1;1,30
+A260309-0012;2026-03-09;07:37;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0013;2026-03-09;07:38;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0013;2026-03-09;07:38;001;Baguette tradition;Pains;1;1,30
+A260309-0014;2026-03-09;07:38;001;Baguette tradition;Pains;1;1,30
+A260309-0015;2026-03-09;07:40;001;Baguette tradition;Pains;1;1,30
+A260309-0015;2026-03-09;07:40;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0016;2026-03-09;07:42;001;Croissant;Viennoiseries;1;1,20
+A260309-0016;2026-03-09;07:42;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0017;2026-03-09;07:43;001;Quiche lorraine;Snacking;1;4,20
+A260309-0017;2026-03-09;07:43;001;Croissant;Viennoiseries;1;1,20
+A260309-0018;2026-03-09;07:43;001;Croissant;Viennoiseries;2;2,40
+A260309-0018;2026-03-09;07:43;001;Baguette tradition;Pains;2;2,60
+A260309-0019;2026-03-09;07:43;001;Cookie;Pâtisseries;3;5,40
+A260309-0020;2026-03-09;07:45;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0020;2026-03-09;07:45;001;Formule déjeuner;Snacking;1;8,90
+A260309-0021;2026-03-09;07:47;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0021;2026-03-09;07:47;001;Baguette tradition;Pains;1;1,30
+A260309-0021;2026-03-09;07:47;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0022;2026-03-09;07:50;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0023;2026-03-09;07:56;001;Baguette tradition;Pains;1;1,30
+A260309-0024;2026-03-09;07:56;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0025;2026-03-09;07:58;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0026;2026-03-09;08:06;001;Croissant;Viennoiseries;1;1,20
+A260309-0027;2026-03-09;08:08;001;Baguette tradition;Pains;1;1,30
+A260309-0028;2026-03-09;08:10;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0028;2026-03-09;08:10;001;Formule déjeuner;Snacking;1;8,90
+A260309-0028;2026-03-09;08:10;001;Croissant;Viennoiseries;1;1,20
+A260309-0029;2026-03-09;08:10;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260309-0030;2026-03-09;08:15;001;Croissant;Viennoiseries;1;1,20
+A260309-0030;2026-03-09;08:15;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0030;2026-03-09;08:15;001;Baguette tradition;Pains;1;1,30
+A260309-0031;2026-03-09;08:15;001;Baguette tradition;Pains;1;1,30
+A260309-0032;2026-03-09;08:22;001;Croissant;Viennoiseries;2;2,40
+A260309-0033;2026-03-09;08:25;001;Baguette tradition;Pains;1;1,30
+A260309-0033;2026-03-09;08:25;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0034;2026-03-09;08:25;001;Baguette tradition;Pains;2;2,60
+A260309-0035;2026-03-09;08:37;001;Pain de campagne;Pains;1;3,50
+A260309-0036;2026-03-09;08:43;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0037;2026-03-09;08:48;001;Baguette tradition;Pains;1;1,30
+A260309-0038;2026-03-09;08:57;001;Cookie;Pâtisseries;1;1,80
+A260309-0039;2026-03-09;08:59;001;Quiche lorraine;Snacking;1;4,20
+A260309-0039;2026-03-09;08:59;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260309-0040;2026-03-09;08:59;001;Baguette tradition;Pains;1;1,30
+A260309-0041;2026-03-09;09:06;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0042;2026-03-09;09:07;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0043;2026-03-09;09:14;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0044;2026-03-09;09:14;001;Quiche lorraine;Snacking;2;8,40
+A260309-0045;2026-03-09;09:37;001;Baguette tradition;Pains;1;1,30
+A260309-0046;2026-03-09;09:42;001;Cookie;Pâtisseries;1;1,80
+A260309-0046;2026-03-09;09:42;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0047;2026-03-09;09:47;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0047;2026-03-09;09:47;001;Quiche lorraine;Snacking;2;8,40
+A260309-0048;2026-03-09;09:49;001;Baguette tradition;Pains;3;3,90
+A260309-0048;2026-03-09;09:49;001;Quiche lorraine;Snacking;1;4,20
+A260309-0049;2026-03-09;10:13;001;Pain de campagne;Pains;1;3,50
+A260309-0050;2026-03-09;10:16;001;Formule déjeuner;Snacking;1;8,90
+A260309-0051;2026-03-09;10:33;001;Cookie;Pâtisseries;1;1,80
+A260309-0052;2026-03-09;10:51;001;Sandwich jambon-beurre;Snacking;3;14,70
+A260309-0053;2026-03-09;11:03;001;Quiche lorraine;Snacking;1;4,20
+A260309-0054;2026-03-09;11:15;001;Croissant;Viennoiseries;1;1,20
+A260309-0055;2026-03-09;12:01;001;Formule déjeuner;Snacking;1;8,90
+A260309-0056;2026-03-09;12:03;001;Formule déjeuner;Snacking;1;8,90
+A260309-0057;2026-03-09;12:03;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0058;2026-03-09;12:04;001;Formule déjeuner;Snacking;1;8,90
+A260309-0059;2026-03-09;12:04;001;Quiche lorraine;Snacking;1;4,20
+A260309-0060;2026-03-09;12:05;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0060;2026-03-09;12:05;001;Baguette tradition;Pains;5;6,50
+A260309-0061;2026-03-09;12:08;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0062;2026-03-09;12:10;001;Croissant;Viennoiseries;1;1,20
+A260309-0062;2026-03-09;12:10;001;Baguette tradition;Pains;1;1,30
+A260309-0063;2026-03-09;12:16;001;Baguette tradition;Pains;1;1,30
+A260309-0063;2026-03-09;12:16;001;Croissant;Viennoiseries;1;1,20
+A260309-0064;2026-03-09;12:16;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0065;2026-03-09;12:17;001;Baguette tradition;Pains;2;2,60
+A260309-0066;2026-03-09;12:18;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0067;2026-03-09;12:24;001;Baguette tradition;Pains;1;1,30
+A260309-0068;2026-03-09;12:34;001;Cookie;Pâtisseries;1;1,80
+A260309-0068;2026-03-09;12:34;001;Baguette tradition;Pains;1;1,30
+A260309-0069;2026-03-09;12:39;001;Baguette tradition;Pains;1;1,30
+A260309-0070;2026-03-09;12:43;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0071;2026-03-09;12:45;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0071;2026-03-09;12:45;001;Baguette tradition;Pains;2;2,60
+A260309-0071;2026-03-09;12:45;001;Croissant;Viennoiseries;2;2,40
+A260309-0072;2026-03-09;12:46;001;Croissant;Viennoiseries;1;1,20
+A260309-0072;2026-03-09;12:46;001;Baguette tradition;Pains;1;1,30
+A260309-0073;2026-03-09;12:47;001;Croissant;Viennoiseries;2;2,40
+A260309-0073;2026-03-09;12:47;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0074;2026-03-09;12:55;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0075;2026-03-09;13:00;001;Baguette tradition;Pains;3;3,90
+A260309-0075;2026-03-09;13:00;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0076;2026-03-09;13:02;001;Croissant;Viennoiseries;2;2,40
+A260309-0077;2026-03-09;13:05;001;Baguette tradition;Pains;1;1,30
+A260309-0077;2026-03-09;13:05;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0077;2026-03-09;13:05;001;Cookie;Pâtisseries;1;1,80
+A260309-0078;2026-03-09;13:05;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0079;2026-03-09;13:07;001;Baguette tradition;Pains;1;1,30
+A260309-0080;2026-03-09;13:08;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0081;2026-03-09;13:08;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0082;2026-03-09;13:09;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260309-0083;2026-03-09;13:09;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0083;2026-03-09;13:09;001;Éclair café;Pâtisseries;1;2,80
+A260309-0084;2026-03-09;13:13;001;Pain au chocolat;Viennoiseries;2;2,80
+A260309-0085;2026-03-09;13:13;001;Baguette tradition;Pains;3;3,90
+A260309-0086;2026-03-09;13:14;001;Baguette tradition;Pains;1;1,30
+A260309-0086;2026-03-09;13:14;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0087;2026-03-09;13:14;001;Croissant;Viennoiseries;2;2,40
+A260309-0087;2026-03-09;13:14;001;Baguette tradition;Pains;1;1,30
+A260309-0088;2026-03-09;13:18;001;Baguette tradition;Pains;3;3,90
+A260309-0089;2026-03-09;13:20;001;Pain au chocolat;Viennoiseries;2;2,80
+A260309-0089;2026-03-09;13:20;001;Cookie;Pâtisseries;1;1,80
+A260309-0090;2026-03-09;13:27;001;Baguette tradition;Pains;2;2,60
+A260309-0091;2026-03-09;13:29;001;Pain au chocolat;Viennoiseries;2;2,80
+A260309-0092;2026-03-09;13:32;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0093;2026-03-09;13:35;001;Baguette tradition;Pains;1;1,30
+A260309-0094;2026-03-09;13:36;001;Pain au chocolat;Viennoiseries;2;2,80
+A260309-0095;2026-03-09;13:39;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0096;2026-03-09;13:39;001;Quiche lorraine;Snacking;1;4,20
+A260309-0096;2026-03-09;13:39;001;Croissant;Viennoiseries;1;1,20
+A260309-0096;2026-03-09;13:39;001;Pain de campagne;Pains;2;7,00
+A260309-0097;2026-03-09;13:42;001;Croissant;Viennoiseries;2;2,40
+A260309-0098;2026-03-09;13:49;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0098;2026-03-09;13:49;001;Baguette tradition;Pains;1;1,30
+A260309-0099;2026-03-09;13:49;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0099;2026-03-09;13:49;001;Baguette tradition;Pains;1;1,30
+A260309-0100;2026-03-09;13:51;001;Croissant;Viennoiseries;1;1,20
+A260309-0100;2026-03-09;13:51;001;Baguette tradition;Pains;3;3,90
+A260309-0100;2026-03-09;13:51;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0101;2026-03-09;13:51;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0102;2026-03-09;13:59;001;Cookie;Pâtisseries;2;3,60
+A260309-0103;2026-03-09;14:48;001;Baguette tradition;Pains;2;2,60
+A260309-0104;2026-03-09;14:55;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0105;2026-03-09;15:57;001;Formule déjeuner;Snacking;2;17,80
+A260309-0106;2026-03-09;16:05;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0107;2026-03-09;16:16;001;Croissant;Viennoiseries;2;2,40
+A260309-0107;2026-03-09;16:16;001;Formule déjeuner;Snacking;1;8,90
+A260309-0107;2026-03-09;16:16;001;Quiche lorraine;Snacking;1;4,20
+A260309-0108;2026-03-09;16:56;001;Croissant;Viennoiseries;1;1,20
+A260309-0108;2026-03-09;16:56;001;Baguette tradition;Pains;1;1,30
+A260309-0108;2026-03-09;16:56;001;Pain au chocolat;Viennoiseries;2;2,80
+A260309-0109;2026-03-09;17:00;001;Baguette tradition;Pains;1;1,30
+A260309-0110;2026-03-09;17:10;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0111;2026-03-09;17:10;001;Pain de campagne;Pains;1;3,50
+A260309-0112;2026-03-09;17:12;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0112;2026-03-09;17:12;001;Quiche lorraine;Snacking;1;4,20
+A260309-0113;2026-03-09;17:24;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0113;2026-03-09;17:24;001;Croissant;Viennoiseries;1;1,20
+A260309-0114;2026-03-09;17:32;001;Cookie;Pâtisseries;1;1,80
+A260309-0114;2026-03-09;17:32;001;Baguette tradition;Pains;1;1,30
+A260309-0115;2026-03-09;17:32;001;Formule déjeuner;Snacking;2;17,80
+A260309-0115;2026-03-09;17:32;001;Croissant;Viennoiseries;1;1,20
+A260309-0116;2026-03-09;17:44;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0117;2026-03-09;17:47;001;Baguette tradition;Pains;1;1,30
+A260309-0117;2026-03-09;17:47;001;Cookie;Pâtisseries;1;1,80
+A260309-0118;2026-03-09;17:54;001;Pain au chocolat;Viennoiseries;2;2,80
+A260309-0118;2026-03-09;17:54;001;Formule déjeuner;Snacking;2;17,80
+A260309-0119;2026-03-09;17:56;001;Pain de campagne;Pains;1;3,50
+A260309-0120;2026-03-09;17:57;001;Formule déjeuner;Snacking;1;8,90
+A260309-0120;2026-03-09;17:57;001;Baguette tradition;Pains;1;1,30
+A260309-0121;2026-03-09;18:04;001;Cookie;Pâtisseries;1;1,80
+A260309-0121;2026-03-09;18:04;001;Croissant;Viennoiseries;1;1,20
+A260309-0121;2026-03-09;18:04;001;Pain au chocolat;Viennoiseries;2;2,80
+A260309-0122;2026-03-09;18:07;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260309-0123;2026-03-09;18:14;001;Quiche lorraine;Snacking;1;4,20
+A260309-0124;2026-03-09;18:15;001;Baguette tradition;Pains;1;1,30
+A260309-0125;2026-03-09;18:18;001;Quiche lorraine;Snacking;1;4,20
+A260309-0125;2026-03-09;18:18;001;Baguette tradition;Pains;2;2,60
+A260309-0126;2026-03-09;18:25;001;Baguette tradition;Pains;3;3,90
+A260309-0127;2026-03-09;18:51;001;Baguette tradition;Pains;1;1,30
+A260309-0128;2026-03-09;19:06;001;Éclair café;Pâtisseries;1;2,80
+A260309-0128;2026-03-09;19:06;001;Baguette tradition;Pains;1;1,30
+A260309-0129;2026-03-09;19:15;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0130;2026-03-09;19:16;001;Baguette tradition;Pains;2;2,60
+A260309-0131;2026-03-09;19:16;001;Croissant;Viennoiseries;1;1,20
+A260309-0132;2026-03-09;19:19;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0133;2026-03-09;19:20;001;Baguette tradition;Pains;3;3,90
+A260309-0133;2026-03-09;19:20;001;Pain au chocolat;Viennoiseries;2;2,80
+A260309-0134;2026-03-09;19:21;001;Baguette tradition;Pains;1;1,30
+A260309-0134;2026-03-09;19:21;001;Croissant;Viennoiseries;2;2,40
+A260309-0135;2026-03-09;19:23;001;Quiche lorraine;Snacking;1;4,20
+A260309-0136;2026-03-09;19:29;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0137;2026-03-09;19:29;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0137;2026-03-09;19:29;001;Formule déjeuner;Snacking;1;8,90
+A260309-0138;2026-03-09;19:33;001;Pain au chocolat;Viennoiseries;1;1,40
+A260309-0138;2026-03-09;19:33;001;Croissant;Viennoiseries;1;1,20
+A260309-0138;2026-03-09;19:33;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0139;2026-03-09;19:36;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260309-0140;2026-03-09;19:38;001;Pain au chocolat;Viennoiseries;2;2,80
+A260309-0141;2026-03-09;19:44;001;Éclair café;Pâtisseries;1;2,80
+A260310-0001;2026-03-10;07:08;001;Éclair café;Pâtisseries;1;2,80
+A260310-0002;2026-03-10;07:09;001;Croissant;Viennoiseries;1;1,20
+A260310-0002;2026-03-10;07:09;001;Baguette tradition;Pains;1;1,30
+A260310-0003;2026-03-10;07:09;001;Croissant;Viennoiseries;1;1,20
+A260310-0004;2026-03-10;07:09;001;Baguette tradition;Pains;1;1,30
+A260310-0005;2026-03-10;07:11;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0006;2026-03-10;07:17;001;Baguette tradition;Pains;1;1,30
+A260310-0006;2026-03-10;07:17;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0007;2026-03-10;07:19;001;Pain au chocolat;Viennoiseries;2;2,80
+A260310-0007;2026-03-10;07:19;001;Formule déjeuner;Snacking;1;8,90
+A260310-0008;2026-03-10;07:19;001;Baguette tradition;Pains;1;1,30
+A260310-0008;2026-03-10;07:19;001;Cookie;Pâtisseries;1;1,80
+A260310-0009;2026-03-10;07:22;001;Pain au chocolat;Viennoiseries;2;2,80
+A260310-0010;2026-03-10;07:24;001;Pain de campagne;Pains;1;3,50
+A260310-0011;2026-03-10;07:28;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0011;2026-03-10;07:28;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0012;2026-03-10;07:30;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0013;2026-03-10;07:30;001;Pain de campagne;Pains;1;3,50
+A260310-0014;2026-03-10;07:33;001;Cookie;Pâtisseries;1;1,80
+A260310-0015;2026-03-10;07:36;001;Baguette tradition;Pains;1;1,30
+A260310-0016;2026-03-10;07:37;001;Baguette tradition;Pains;2;2,60
+A260310-0016;2026-03-10;07:37;001;Formule déjeuner;Snacking;2;17,80
+A260310-0017;2026-03-10;07:37;001;Pain de campagne;Pains;1;3,50
+A260310-0018;2026-03-10;07:38;001;Pain de campagne;Pains;1;3,50
+A260310-0019;2026-03-10;07:43;001;Quiche lorraine;Snacking;1;4,20
+A260310-0019;2026-03-10;07:43;001;Baguette tradition;Pains;1;1,30
+A260310-0020;2026-03-10;07:46;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0021;2026-03-10;08:06;001;Baguette tradition;Pains;2;2,60
+A260310-0022;2026-03-10;08:07;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0023;2026-03-10;08:13;001;Croissant;Viennoiseries;1;1,20
+A260310-0023;2026-03-10;08:13;001;Pain de campagne;Pains;2;7,00
+A260310-0024;2026-03-10;08:13;001;Croissant;Viennoiseries;2;2,40
+A260310-0024;2026-03-10;08:13;001;Cookie;Pâtisseries;1;1,80
+A260310-0025;2026-03-10;08:32;001;Baguette tradition;Pains;1;1,30
+A260310-0025;2026-03-10;08:32;001;Pain au chocolat;Viennoiseries;2;2,80
+A260310-0026;2026-03-10;08:33;001;Baguette tradition;Pains;2;2,60
+A260310-0026;2026-03-10;08:33;001;Formule déjeuner;Snacking;1;8,90
+A260310-0027;2026-03-10;08:36;001;Baguette tradition;Pains;3;3,90
+A260310-0028;2026-03-10;08:42;001;Baguette tradition;Pains;2;2,60
+A260310-0028;2026-03-10;08:42;001;Pain de campagne;Pains;1;3,50
+A260310-0029;2026-03-10;08:44;001;Cookie;Pâtisseries;1;1,80
+A260310-0030;2026-03-10;08:47;001;Éclair café;Pâtisseries;1;2,80
+A260310-0031;2026-03-10;08:51;001;Quiche lorraine;Snacking;1;4,20
+A260310-0031;2026-03-10;08:51;001;Baguette tradition;Pains;2;2,60
+A260310-0032;2026-03-10;08:54;001;Baguette tradition;Pains;2;2,60
+A260310-0032;2026-03-10;08:54;001;Croissant;Viennoiseries;1;1,20
+A260310-0033;2026-03-10;08:58;001;Baguette tradition;Pains;2;2,60
+A260310-0034;2026-03-10;09:07;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0035;2026-03-10;09:16;001;Baguette tradition;Pains;1;1,30
+A260310-0036;2026-03-10;09:20;001;Croissant;Viennoiseries;1;1,20
+A260310-0037;2026-03-10;09:31;001;Baguette tradition;Pains;2;2,60
+A260310-0038;2026-03-10;09:53;001;Baguette tradition;Pains;2;2,60
+A260310-0039;2026-03-10;10:04;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0040;2026-03-10;10:10;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0041;2026-03-10;10:10;001;Baguette tradition;Pains;1;1,30
+A260310-0041;2026-03-10;10:10;001;Croissant;Viennoiseries;2;2,40
+A260310-0041;2026-03-10;10:10;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0042;2026-03-10;10:25;001;Pain au chocolat;Viennoiseries;2;2,80
+A260310-0043;2026-03-10;10:49;001;Baguette tradition;Pains;2;2,60
+A260310-0044;2026-03-10;11:01;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0045;2026-03-10;11:02;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0045;2026-03-10;11:02;001;Baguette tradition;Pains;1;1,30
+A260310-0046;2026-03-10;11:03;001;Baguette tradition;Pains;2;2,60
+A260310-0046;2026-03-10;11:03;001;Croissant;Viennoiseries;1;1,20
+A260310-0047;2026-03-10;11:06;001;Quiche lorraine;Snacking;2;8,40
+A260310-0048;2026-03-10;11:14;001;Baguette tradition;Pains;1;1,30
+A260310-0049;2026-03-10;11:20;001;Éclair café;Pâtisseries;1;2,80
+A260310-0050;2026-03-10;11:23;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0050;2026-03-10;11:23;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0050;2026-03-10;11:23;001;Pain de campagne;Pains;1;3,50
+A260310-0051;2026-03-10;11:23;001;Pain de campagne;Pains;3;10,50
+A260310-0052;2026-03-10;12:03;001;Éclair café;Pâtisseries;1;2,80
+A260310-0052;2026-03-10;12:03;001;Cookie;Pâtisseries;1;1,80
+A260310-0053;2026-03-10;12:03;001;Éclair café;Pâtisseries;1;2,80
+A260310-0054;2026-03-10;12:07;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0054;2026-03-10;12:07;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0055;2026-03-10;12:08;001;Pain de campagne;Pains;1;3,50
+A260310-0056;2026-03-10;12:08;001;Baguette tradition;Pains;1;1,30
+A260310-0056;2026-03-10;12:08;001;Croissant;Viennoiseries;1;1,20
+A260310-0057;2026-03-10;12:09;001;Baguette tradition;Pains;2;2,60
+A260310-0058;2026-03-10;12:09;001;Cookie;Pâtisseries;1;1,80
+A260310-0059;2026-03-10;12:14;001;Cookie;Pâtisseries;1;1,80
+A260310-0059;2026-03-10;12:14;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0059;2026-03-10;12:14;001;Quiche lorraine;Snacking;1;4,20
+A260310-0060;2026-03-10;12:15;001;Baguette tradition;Pains;3;3,90
+A260310-0060;2026-03-10;12:15;001;Quiche lorraine;Snacking;1;4,20
+A260310-0061;2026-03-10;12:21;001;Croissant;Viennoiseries;1;1,20
+A260310-0062;2026-03-10;12:26;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260310-0062;2026-03-10;12:26;001;Pain de campagne;Pains;1;3,50
+A260310-0063;2026-03-10;12:27;001;Pain au chocolat;Viennoiseries;2;2,80
+A260310-0064;2026-03-10;12:28;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0065;2026-03-10;12:38;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0066;2026-03-10;12:39;001;Croissant;Viennoiseries;2;2,40
+A260310-0067;2026-03-10;12:40;001;Éclair café;Pâtisseries;1;2,80
+A260310-0068;2026-03-10;12:53;001;Formule déjeuner;Snacking;1;8,90
+A260310-0069;2026-03-10;12:54;001;Croissant;Viennoiseries;1;1,20
+A260310-0069;2026-03-10;12:54;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0069;2026-03-10;12:54;001;Pain de campagne;Pains;1;3,50
+A260310-0070;2026-03-10;12:54;001;Pain au chocolat;Viennoiseries;2;2,80
+A260310-0071;2026-03-10;13:03;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260310-0071;2026-03-10;13:03;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0072;2026-03-10;13:04;001;Baguette tradition;Pains;1;1,30
+A260310-0073;2026-03-10;13:04;001;Quiche lorraine;Snacking;1;4,20
+A260310-0074;2026-03-10;13:06;001;Pain de campagne;Pains;1;3,50
+A260310-0074;2026-03-10;13:06;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0075;2026-03-10;13:06;001;Baguette tradition;Pains;3;3,90
+A260310-0076;2026-03-10;13:07;001;Croissant;Viennoiseries;1;1,20
+A260310-0076;2026-03-10;13:07;001;Formule déjeuner;Snacking;1;8,90
+A260310-0077;2026-03-10;13:17;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0077;2026-03-10;13:17;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0077;2026-03-10;13:17;001;Formule déjeuner;Snacking;1;8,90
+A260310-0078;2026-03-10;13:22;001;Baguette tradition;Pains;3;3,90
+A260310-0078;2026-03-10;13:22;001;Croissant;Viennoiseries;2;2,40
+A260310-0079;2026-03-10;13:22;001;Baguette tradition;Pains;1;1,30
+A260310-0080;2026-03-10;13:23;001;Pain de campagne;Pains;1;3,50
+A260310-0081;2026-03-10;13:23;001;Cookie;Pâtisseries;2;3,60
+A260310-0082;2026-03-10;13:24;001;Baguette tradition;Pains;1;1,30
+A260310-0082;2026-03-10;13:24;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0083;2026-03-10;13:26;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0084;2026-03-10;13:28;001;Cookie;Pâtisseries;1;1,80
+A260310-0085;2026-03-10;13:29;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0085;2026-03-10;13:29;001;Formule déjeuner;Snacking;1;8,90
+A260310-0086;2026-03-10;13:32;001;Baguette tradition;Pains;1;1,30
+A260310-0086;2026-03-10;13:32;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0087;2026-03-10;13:32;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0087;2026-03-10;13:32;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0088;2026-03-10;13:33;001;Baguette tradition;Pains;3;3,90
+A260310-0088;2026-03-10;13:33;001;Croissant;Viennoiseries;1;1,20
+A260310-0089;2026-03-10;13:33;001;Baguette tradition;Pains;2;2,60
+A260310-0090;2026-03-10;13:37;001;Baguette tradition;Pains;1;1,30
+A260310-0091;2026-03-10;13:37;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0092;2026-03-10;13:37;001;Cookie;Pâtisseries;1;1,80
+A260310-0092;2026-03-10;13:37;001;Pain de campagne;Pains;1;3,50
+A260310-0093;2026-03-10;13:43;001;Croissant;Viennoiseries;1;1,20
+A260310-0094;2026-03-10;13:43;001;Baguette tradition;Pains;1;1,30
+A260310-0095;2026-03-10;13:45;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0096;2026-03-10;13:54;001;Baguette tradition;Pains;1;1,30
+A260310-0096;2026-03-10;13:54;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0097;2026-03-10;13:55;001;Croissant;Viennoiseries;2;2,40
+A260310-0098;2026-03-10;13:58;001;Cookie;Pâtisseries;1;1,80
+A260310-0099;2026-03-10;14:05;001;Baguette tradition;Pains;2;2,60
+A260310-0099;2026-03-10;14:05;001;Formule déjeuner;Snacking;1;8,90
+A260310-0100;2026-03-10;14:08;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0101;2026-03-10;14:24;001;Formule déjeuner;Snacking;1;8,90
+A260310-0102;2026-03-10;14:55;001;Pain de campagne;Pains;1;3,50
+A260310-0102;2026-03-10;14:55;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0103;2026-03-10;14:56;001;Baguette tradition;Pains;1;1,30
+A260310-0103;2026-03-10;14:56;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0104;2026-03-10;15:18;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0104;2026-03-10;15:18;001;Cookie;Pâtisseries;1;1,80
+A260310-0104;2026-03-10;15:18;001;Quiche lorraine;Snacking;1;4,20
+A260310-0105;2026-03-10;15:22;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0105;2026-03-10;15:22;001;Croissant;Viennoiseries;1;1,20
+A260310-0105;2026-03-10;15:22;001;Baguette tradition;Pains;1;1,30
+A260310-0106;2026-03-10;15:51;001;Croissant;Viennoiseries;1;1,20
+A260310-0107;2026-03-10;16:00;001;Croissant;Viennoiseries;1;1,20
+A260310-0107;2026-03-10;16:00;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0108;2026-03-10;16:14;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260310-0108;2026-03-10;16:14;001;Pain de campagne;Pains;1;3,50
+A260310-0108;2026-03-10;16:14;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0109;2026-03-10;16:38;001;Quiche lorraine;Snacking;1;4,20
+A260310-0110;2026-03-10;16:52;001;Cookie;Pâtisseries;1;1,80
+A260310-0110;2026-03-10;16:52;001;Quiche lorraine;Snacking;1;4,20
+A260310-0111;2026-03-10;17:04;001;Baguette tradition;Pains;1;1,30
+A260310-0111;2026-03-10;17:04;001;Cookie;Pâtisseries;1;1,80
+A260310-0112;2026-03-10;17:06;001;Pain au chocolat;Viennoiseries;2;2,80
+A260310-0113;2026-03-10;17:08;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0113;2026-03-10;17:08;001;Baguette tradition;Pains;1;1,30
+A260310-0114;2026-03-10;17:16;001;Cookie;Pâtisseries;1;1,80
+A260310-0115;2026-03-10;17:18;001;Baguette tradition;Pains;1;1,30
+A260310-0116;2026-03-10;17:54;001;Croissant;Viennoiseries;1;1,20
+A260310-0116;2026-03-10;17:54;001;Éclair café;Pâtisseries;2;5,60
+A260310-0117;2026-03-10;18:05;001;Baguette tradition;Pains;2;2,60
+A260310-0118;2026-03-10;18:05;001;Croissant;Viennoiseries;1;1,20
+A260310-0118;2026-03-10;18:05;001;Baguette tradition;Pains;2;2,60
+A260310-0119;2026-03-10;18:05;001;Pain de campagne;Pains;1;3,50
+A260310-0120;2026-03-10;18:09;001;Pain au chocolat;Viennoiseries;2;2,80
+A260310-0121;2026-03-10;18:38;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0122;2026-03-10;18:51;001;Baguette tradition;Pains;3;3,90
+A260310-0122;2026-03-10;18:51;001;Pain de campagne;Pains;1;3,50
+A260310-0123;2026-03-10;18:55;001;Quiche lorraine;Snacking;1;4,20
+A260310-0123;2026-03-10;18:55;001;Baguette tradition;Pains;1;1,30
+A260310-0123;2026-03-10;18:55;001;Croissant;Viennoiseries;2;2,40
+A260310-0124;2026-03-10;19:13;001;Cookie;Pâtisseries;1;1,80
+A260310-0124;2026-03-10;19:13;001;Baguette tradition;Pains;1;1,30
+A260310-0125;2026-03-10;19:17;001;Pain de campagne;Pains;1;3,50
+A260310-0125;2026-03-10;19:17;001;Baguette tradition;Pains;1;1,30
+A260310-0126;2026-03-10;19:18;001;Pain au chocolat;Viennoiseries;2;2,80
+A260310-0127;2026-03-10;19:19;001;Baguette tradition;Pains;1;1,30
+A260310-0127;2026-03-10;19:19;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0128;2026-03-10;19:21;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0128;2026-03-10;19:21;001;Baguette tradition;Pains;1;1,30
+A260310-0129;2026-03-10;19:29;001;Baguette tradition;Pains;3;3,90
+A260310-0130;2026-03-10;19:31;001;Croissant;Viennoiseries;2;2,40
+A260310-0130;2026-03-10;19:31;001;Formule déjeuner;Snacking;1;8,90
+A260310-0130;2026-03-10;19:31;001;Baguette tradition;Pains;3;3,90
+A260310-0131;2026-03-10;19:33;001;Pain au chocolat;Viennoiseries;2;2,80
+A260310-0132;2026-03-10;19:41;001;Pain au chocolat;Viennoiseries;1;1,40
+A260310-0133;2026-03-10;19:41;001;Éclair café;Pâtisseries;2;5,60
+A260310-0133;2026-03-10;19:41;001;Baguette tradition;Pains;2;2,60
+A260310-0134;2026-03-10;19:43;001;Éclair café;Pâtisseries;2;5,60
+A260310-0135;2026-03-10;19:49;001;Croissant;Viennoiseries;2;2,40
+A260310-0136;2026-03-10;19:59;001;Éclair café;Pâtisseries;2;5,60
+A260310-0136;2026-03-10;19:59;001;Baguette tradition;Pains;4;5,20
+A260311-0001;2026-03-11;07:02;001;Éclair café;Pâtisseries;1;2,80
+A260311-0001;2026-03-11;07:02;001;Baguette tradition;Pains;1;1,30
+A260311-0002;2026-03-11;07:02;001;Éclair café;Pâtisseries;1;2,80
+A260311-0002;2026-03-11;07:02;001;Baguette tradition;Pains;6;7,80
+A260311-0003;2026-03-11;07:04;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0003;2026-03-11;07:04;001;Croissant;Viennoiseries;1;1,20
+A260311-0004;2026-03-11;07:12;001;Baguette tradition;Pains;2;2,60
+A260311-0005;2026-03-11;07:15;001;Éclair café;Pâtisseries;1;2,80
+A260311-0006;2026-03-11;07:19;001;Baguette tradition;Pains;3;3,90
+A260311-0006;2026-03-11;07:19;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0007;2026-03-11;07:25;001;Baguette tradition;Pains;1;1,30
+A260311-0007;2026-03-11;07:25;001;Formule déjeuner;Snacking;1;8,90
+A260311-0007;2026-03-11;07:25;001;Quiche lorraine;Snacking;2;8,40
+A260311-0008;2026-03-11;07:33;001;Quiche lorraine;Snacking;1;4,20
+A260311-0009;2026-03-11;07:38;001;Cookie;Pâtisseries;1;1,80
+A260311-0010;2026-03-11;07:40;001;Cookie;Pâtisseries;1;1,80
+A260311-0011;2026-03-11;07:41;001;Pain au chocolat;Viennoiseries;2;2,80
+A260311-0012;2026-03-11;07:45;001;Baguette tradition;Pains;1;1,30
+A260311-0012;2026-03-11;07:45;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0013;2026-03-11;07:48;001;Pain de campagne;Pains;1;3,50
+A260311-0013;2026-03-11;07:48;001;Baguette tradition;Pains;1;1,30
+A260311-0014;2026-03-11;07:48;001;Baguette tradition;Pains;1;1,30
+A260311-0015;2026-03-11;07:49;001;Croissant;Viennoiseries;1;1,20
+A260311-0016;2026-03-11;07:51;001;Baguette tradition;Pains;1;1,30
+A260311-0017;2026-03-11;07:53;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0018;2026-03-11;07:57;001;Baguette tradition;Pains;1;1,30
+A260311-0019;2026-03-11;08:10;001;Éclair café;Pâtisseries;2;5,60
+A260311-0020;2026-03-11;08:11;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0020;2026-03-11;08:11;001;Croissant;Viennoiseries;1;1,20
+A260311-0020;2026-03-11;08:11;001;Baguette tradition;Pains;1;1,30
+A260311-0021;2026-03-11;08:14;001;Croissant;Viennoiseries;1;1,20
+A260311-0022;2026-03-11;08:18;001;Baguette tradition;Pains;1;1,30
+A260311-0023;2026-03-11;08:19;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0024;2026-03-11;08:19;001;Baguette tradition;Pains;1;1,30
+A260311-0025;2026-03-11;08:23;001;Pain de campagne;Pains;2;7,00
+A260311-0025;2026-03-11;08:23;001;Quiche lorraine;Snacking;1;4,20
+A260311-0026;2026-03-11;08:24;001;Cookie;Pâtisseries;1;1,80
+A260311-0026;2026-03-11;08:24;001;Pain de campagne;Pains;2;7,00
+A260311-0027;2026-03-11;08:29;001;Baguette tradition;Pains;3;3,90
+A260311-0028;2026-03-11;08:29;001;Baguette tradition;Pains;2;2,60
+A260311-0028;2026-03-11;08:29;001;Croissant;Viennoiseries;1;1,20
+A260311-0029;2026-03-11;08:41;001;Croissant;Viennoiseries;1;1,20
+A260311-0029;2026-03-11;08:41;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0030;2026-03-11;08:44;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0031;2026-03-11;08:48;001;Croissant;Viennoiseries;2;2,40
+A260311-0031;2026-03-11;08:48;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0032;2026-03-11;08:52;001;Croissant;Viennoiseries;1;1,20
+A260311-0032;2026-03-11;08:52;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0033;2026-03-11;08:54;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0033;2026-03-11;08:54;001;Baguette tradition;Pains;3;3,90
+A260311-0034;2026-03-11;09:11;001;Croissant;Viennoiseries;1;1,20
+A260311-0035;2026-03-11;09:15;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0035;2026-03-11;09:15;001;Quiche lorraine;Snacking;1;4,20
+A260311-0035;2026-03-11;09:15;001;Éclair café;Pâtisseries;1;2,80
+A260311-0036;2026-03-11;09:31;001;Baguette tradition;Pains;2;2,60
+A260311-0036;2026-03-11;09:31;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0037;2026-03-11;09:36;001;Baguette tradition;Pains;3;3,90
+A260311-0037;2026-03-11;09:36;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0038;2026-03-11;09:42;001;Cookie;Pâtisseries;1;1,80
+A260311-0038;2026-03-11;09:42;001;Baguette tradition;Pains;1;1,30
+A260311-0039;2026-03-11;09:47;001;Croissant;Viennoiseries;1;1,20
+A260311-0040;2026-03-11;10:03;001;Croissant;Viennoiseries;1;1,20
+A260311-0040;2026-03-11;10:03;001;Quiche lorraine;Snacking;1;4,20
+A260311-0041;2026-03-11;10:05;001;Pain de campagne;Pains;1;3,50
+A260311-0042;2026-03-11;10:29;001;Croissant;Viennoiseries;2;2,40
+A260311-0043;2026-03-11;10:35;001;Cookie;Pâtisseries;1;1,80
+A260311-0044;2026-03-11;10:36;001;Croissant;Viennoiseries;1;1,20
+A260311-0045;2026-03-11;10:48;001;Croissant;Viennoiseries;1;1,20
+A260311-0046;2026-03-11;11:20;001;Pain de campagne;Pains;1;3,50
+A260311-0046;2026-03-11;11:20;001;Quiche lorraine;Snacking;1;4,20
+A260311-0047;2026-03-11;11:28;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0047;2026-03-11;11:28;001;Baguette tradition;Pains;3;3,90
+A260311-0048;2026-03-11;11:38;001;Baguette tradition;Pains;1;1,30
+A260311-0049;2026-03-11;11:46;001;Cookie;Pâtisseries;1;1,80
+A260311-0049;2026-03-11;11:46;001;Croissant;Viennoiseries;1;1,20
+A260311-0050;2026-03-11;11:49;001;Croissant;Viennoiseries;1;1,20
+A260311-0050;2026-03-11;11:49;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0051;2026-03-11;12:01;001;Croissant;Viennoiseries;1;1,20
+A260311-0051;2026-03-11;12:01;001;Baguette tradition;Pains;2;2,60
+A260311-0052;2026-03-11;12:03;001;Baguette tradition;Pains;1;1,30
+A260311-0052;2026-03-11;12:03;001;Formule déjeuner;Snacking;1;8,90
+A260311-0053;2026-03-11;12:05;001;Croissant;Viennoiseries;1;1,20
+A260311-0054;2026-03-11;12:08;001;Pain au chocolat;Viennoiseries;2;2,80
+A260311-0055;2026-03-11;12:10;001;Pain de campagne;Pains;1;3,50
+A260311-0055;2026-03-11;12:10;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0056;2026-03-11;12:11;001;Baguette tradition;Pains;2;2,60
+A260311-0057;2026-03-11;12:16;001;Baguette tradition;Pains;1;1,30
+A260311-0058;2026-03-11;12:17;001;Croissant;Viennoiseries;1;1,20
+A260311-0058;2026-03-11;12:17;001;Baguette tradition;Pains;1;1,30
+A260311-0059;2026-03-11;12:19;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0060;2026-03-11;12:26;001;Cookie;Pâtisseries;1;1,80
+A260311-0060;2026-03-11;12:26;001;Croissant;Viennoiseries;1;1,20
+A260311-0061;2026-03-11;12:29;001;Croissant;Viennoiseries;1;1,20
+A260311-0062;2026-03-11;12:30;001;Baguette tradition;Pains;1;1,30
+A260311-0063;2026-03-11;12:34;001;Cookie;Pâtisseries;1;1,80
+A260311-0063;2026-03-11;12:34;001;Croissant;Viennoiseries;1;1,20
+A260311-0064;2026-03-11;12:34;001;Formule déjeuner;Snacking;1;8,90
+A260311-0065;2026-03-11;12:35;001;Baguette tradition;Pains;2;2,60
+A260311-0066;2026-03-11;12:41;001;Baguette tradition;Pains;1;1,30
+A260311-0067;2026-03-11;12:48;001;Croissant;Viennoiseries;1;1,20
+A260311-0068;2026-03-11;12:54;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0068;2026-03-11;12:54;001;Baguette tradition;Pains;2;2,60
+A260311-0069;2026-03-11;12:54;001;Pain de campagne;Pains;1;3,50
+A260311-0069;2026-03-11;12:54;001;Baguette tradition;Pains;2;2,60
+A260311-0070;2026-03-11;12:57;001;Cookie;Pâtisseries;1;1,80
+A260311-0071;2026-03-11;13:03;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0071;2026-03-11;13:03;001;Cookie;Pâtisseries;1;1,80
+A260311-0072;2026-03-11;13:03;001;Quiche lorraine;Snacking;1;4,20
+A260311-0073;2026-03-11;13:04;001;Quiche lorraine;Snacking;2;8,40
+A260311-0073;2026-03-11;13:04;001;Pain de campagne;Pains;1;3,50
+A260311-0074;2026-03-11;13:05;001;Baguette tradition;Pains;2;2,60
+A260311-0075;2026-03-11;13:09;001;Pain de campagne;Pains;1;3,50
+A260311-0076;2026-03-11;13:12;001;Pain de campagne;Pains;1;3,50
+A260311-0077;2026-03-11;13:14;001;Baguette tradition;Pains;2;2,60
+A260311-0078;2026-03-11;13:15;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0078;2026-03-11;13:15;001;Cookie;Pâtisseries;1;1,80
+A260311-0078;2026-03-11;13:15;001;Éclair café;Pâtisseries;2;5,60
+A260311-0079;2026-03-11;13:15;001;Baguette tradition;Pains;4;5,20
+A260311-0080;2026-03-11;13:16;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0080;2026-03-11;13:16;001;Croissant;Viennoiseries;1;1,20
+A260311-0081;2026-03-11;13:19;001;Croissant;Viennoiseries;1;1,20
+A260311-0082;2026-03-11;13:19;001;Formule déjeuner;Snacking;1;8,90
+A260311-0082;2026-03-11;13:19;001;Croissant;Viennoiseries;1;1,20
+A260311-0083;2026-03-11;13:19;001;Pain de campagne;Pains;3;10,50
+A260311-0083;2026-03-11;13:19;001;Quiche lorraine;Snacking;1;4,20
+A260311-0084;2026-03-11;13:23;001;Croissant;Viennoiseries;1;1,20
+A260311-0084;2026-03-11;13:23;001;Pain de campagne;Pains;1;3,50
+A260311-0085;2026-03-11;13:26;001;Baguette tradition;Pains;1;1,30
+A260311-0086;2026-03-11;13:29;001;Baguette tradition;Pains;2;2,60
+A260311-0087;2026-03-11;13:34;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0088;2026-03-11;13:34;001;Pain de campagne;Pains;1;3,50
+A260311-0089;2026-03-11;13:41;001;Baguette tradition;Pains;2;2,60
+A260311-0090;2026-03-11;13:42;001;Baguette tradition;Pains;2;2,60
+A260311-0091;2026-03-11;13:43;001;Baguette tradition;Pains;3;3,90
+A260311-0092;2026-03-11;13:47;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0093;2026-03-11;13:52;001;Baguette tradition;Pains;4;5,20
+A260311-0094;2026-03-11;14:13;001;Pain de campagne;Pains;2;7,00
+A260311-0095;2026-03-11;14:15;001;Croissant;Viennoiseries;1;1,20
+A260311-0096;2026-03-11;14:47;001;Baguette tradition;Pains;1;1,30
+A260311-0096;2026-03-11;14:47;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0097;2026-03-11;15:28;001;Baguette tradition;Pains;1;1,30
+A260311-0098;2026-03-11;15:29;001;Baguette tradition;Pains;1;1,30
+A260311-0098;2026-03-11;15:29;001;Quiche lorraine;Snacking;2;8,40
+A260311-0099;2026-03-11;15:46;001;Baguette tradition;Pains;1;1,30
+A260311-0100;2026-03-11;15:48;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0101;2026-03-11;15:58;001;Formule déjeuner;Snacking;1;8,90
+A260311-0102;2026-03-11;16:16;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0102;2026-03-11;16:16;001;Cookie;Pâtisseries;1;1,80
+A260311-0103;2026-03-11;17:03;001;Baguette tradition;Pains;1;1,30
+A260311-0104;2026-03-11;17:06;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0105;2026-03-11;17:08;001;Croissant;Viennoiseries;1;1,20
+A260311-0106;2026-03-11;17:11;001;Baguette tradition;Pains;1;1,30
+A260311-0106;2026-03-11;17:11;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0107;2026-03-11;17:13;001;Cookie;Pâtisseries;1;1,80
+A260311-0108;2026-03-11;17:16;001;Baguette tradition;Pains;1;1,30
+A260311-0109;2026-03-11;17:17;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0109;2026-03-11;17:17;001;Quiche lorraine;Snacking;1;4,20
+A260311-0110;2026-03-11;17:23;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0110;2026-03-11;17:23;001;Croissant;Viennoiseries;1;1,20
+A260311-0111;2026-03-11;17:32;001;Baguette tradition;Pains;1;1,30
+A260311-0111;2026-03-11;17:32;001;Éclair café;Pâtisseries;2;5,60
+A260311-0112;2026-03-11;17:52;001;Baguette tradition;Pains;1;1,30
+A260311-0113;2026-03-11;17:59;001;Pain au chocolat;Viennoiseries;2;2,80
+A260311-0113;2026-03-11;17:59;001;Cookie;Pâtisseries;2;3,60
+A260311-0114;2026-03-11;18:10;001;Formule déjeuner;Snacking;1;8,90
+A260311-0115;2026-03-11;18:20;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0116;2026-03-11;18:24;001;Quiche lorraine;Snacking;1;4,20
+A260311-0116;2026-03-11;18:24;001;Baguette tradition;Pains;2;2,60
+A260311-0117;2026-03-11;18:26;001;Croissant;Viennoiseries;2;2,40
+A260311-0118;2026-03-11;18:28;001;Baguette tradition;Pains;1;1,30
+A260311-0118;2026-03-11;18:28;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0119;2026-03-11;18:33;001;Croissant;Viennoiseries;1;1,20
+A260311-0120;2026-03-11;18:39;001;Pain au chocolat;Viennoiseries;2;2,80
+A260311-0121;2026-03-11;19:01;001;Baguette tradition;Pains;1;1,30
+A260311-0121;2026-03-11;19:01;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0122;2026-03-11;19:02;001;Baguette tradition;Pains;1;1,30
+A260311-0123;2026-03-11;19:07;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0124;2026-03-11;19:09;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260311-0125;2026-03-11;19:09;001;Cookie;Pâtisseries;1;1,80
+A260311-0126;2026-03-11;19:12;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0126;2026-03-11;19:12;001;Baguette tradition;Pains;2;2,60
+A260311-0127;2026-03-11;19:20;001;Éclair café;Pâtisseries;1;2,80
+A260311-0128;2026-03-11;19:27;001;Quiche lorraine;Snacking;1;4,20
+A260311-0129;2026-03-11;19:33;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260311-0130;2026-03-11;19:36;001;Croissant;Viennoiseries;1;1,20
+A260311-0131;2026-03-11;19:41;001;Pain au chocolat;Viennoiseries;1;1,40
+A260311-0132;2026-03-11;19:42;001;Baguette tradition;Pains;1;1,30
+A260311-0133;2026-03-11;19:46;001;Baguette tradition;Pains;3;3,90
+A260311-0134;2026-03-11;19:48;001;Croissant;Viennoiseries;1;1,20
+A260311-0135;2026-03-11;19:54;001;Éclair café;Pâtisseries;2;5,60
+A260311-0136;2026-03-11;19:58;001;Éclair café;Pâtisseries;1;2,80
+A260311-0136;2026-03-11;19:58;001;Croissant;Viennoiseries;1;1,20
+A260312-0001;2026-03-12;07:01;001;Formule déjeuner;Snacking;1;8,90
+A260312-0002;2026-03-12;07:02;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0002;2026-03-12;07:02;001;Croissant;Viennoiseries;1;1,20
+A260312-0003;2026-03-12;07:03;001;Baguette tradition;Pains;1;1,30
+A260312-0004;2026-03-12;07:08;001;Pain de campagne;Pains;2;7,00
+A260312-0005;2026-03-12;07:09;001;Baguette tradition;Pains;3;3,90
+A260312-0006;2026-03-12;07:12;001;Pain de campagne;Pains;2;7,00
+A260312-0006;2026-03-12;07:12;001;Éclair café;Pâtisseries;1;2,80
+A260312-0006;2026-03-12;07:12;001;Croissant;Viennoiseries;1;1,20
+A260312-0007;2026-03-12;07:20;001;Croissant;Viennoiseries;1;1,20
+A260312-0007;2026-03-12;07:20;001;Pain de campagne;Pains;2;7,00
+A260312-0008;2026-03-12;07:22;001;Pain au chocolat;Viennoiseries;2;2,80
+A260312-0009;2026-03-12;07:25;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0010;2026-03-12;07:26;001;Croissant;Viennoiseries;1;1,20
+A260312-0011;2026-03-12;07:26;001;Baguette tradition;Pains;1;1,30
+A260312-0012;2026-03-12;07:38;001;Formule déjeuner;Snacking;1;8,90
+A260312-0013;2026-03-12;07:40;001;Baguette tradition;Pains;1;1,30
+A260312-0014;2026-03-12;07:40;001;Cookie;Pâtisseries;1;1,80
+A260312-0014;2026-03-12;07:40;001;Baguette tradition;Pains;2;2,60
+A260312-0015;2026-03-12;07:44;001;Éclair café;Pâtisseries;1;2,80
+A260312-0016;2026-03-12;07:44;001;Croissant;Viennoiseries;2;2,40
+A260312-0017;2026-03-12;07:49;001;Croissant;Viennoiseries;1;1,20
+A260312-0018;2026-03-12;07:51;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0018;2026-03-12;07:51;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0019;2026-03-12;07:52;001;Quiche lorraine;Snacking;1;4,20
+A260312-0019;2026-03-12;07:52;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0020;2026-03-12;08:00;001;Croissant;Viennoiseries;1;1,20
+A260312-0021;2026-03-12;08:00;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260312-0021;2026-03-12;08:00;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0021;2026-03-12;08:00;001;Baguette tradition;Pains;1;1,30
+A260312-0022;2026-03-12;08:01;001;Baguette tradition;Pains;1;1,30
+A260312-0022;2026-03-12;08:01;001;Croissant;Viennoiseries;1;1,20
+A260312-0023;2026-03-12;08:03;001;Baguette tradition;Pains;4;5,20
+A260312-0023;2026-03-12;08:03;001;Croissant;Viennoiseries;2;2,40
+A260312-0024;2026-03-12;08:03;001;Baguette tradition;Pains;1;1,30
+A260312-0025;2026-03-12;08:04;001;Baguette tradition;Pains;3;3,90
+A260312-0026;2026-03-12;08:07;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0027;2026-03-12;08:20;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0028;2026-03-12;08:20;001;Croissant;Viennoiseries;2;2,40
+A260312-0028;2026-03-12;08:20;001;Baguette tradition;Pains;2;2,60
+A260312-0029;2026-03-12;08:23;001;Quiche lorraine;Snacking;1;4,20
+A260312-0029;2026-03-12;08:23;001;Baguette tradition;Pains;1;1,30
+A260312-0030;2026-03-12;08:29;001;Cookie;Pâtisseries;1;1,80
+A260312-0030;2026-03-12;08:29;001;Baguette tradition;Pains;2;2,60
+A260312-0031;2026-03-12;08:37;001;Formule déjeuner;Snacking;3;26,70
+A260312-0032;2026-03-12;08:40;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0032;2026-03-12;08:40;001;Baguette tradition;Pains;1;1,30
+A260312-0033;2026-03-12;08:50;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0033;2026-03-12;08:50;001;Croissant;Viennoiseries;2;2,40
+A260312-0034;2026-03-12;08:50;001;Baguette tradition;Pains;2;2,60
+A260312-0035;2026-03-12;08:51;001;Quiche lorraine;Snacking;1;4,20
+A260312-0036;2026-03-12;08:52;001;Formule déjeuner;Snacking;1;8,90
+A260312-0036;2026-03-12;08:52;001;Cookie;Pâtisseries;1;1,80
+A260312-0037;2026-03-12;08:54;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0038;2026-03-12;08:55;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0039;2026-03-12;08:56;001;Croissant;Viennoiseries;2;2,40
+A260312-0040;2026-03-12;08:58;001;Croissant;Viennoiseries;1;1,20
+A260312-0041;2026-03-12;08:59;001;Baguette tradition;Pains;2;2,60
+A260312-0042;2026-03-12;09:17;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0043;2026-03-12;09:28;001;Croissant;Viennoiseries;1;1,20
+A260312-0043;2026-03-12;09:28;001;Baguette tradition;Pains;2;2,60
+A260312-0044;2026-03-12;09:34;001;Baguette tradition;Pains;1;1,30
+A260312-0045;2026-03-12;09:43;001;Pain de campagne;Pains;1;3,50
+A260312-0046;2026-03-12;09:46;001;Croissant;Viennoiseries;1;1,20
+A260312-0047;2026-03-12;10:02;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0047;2026-03-12;10:02;001;Croissant;Viennoiseries;1;1,20
+A260312-0047;2026-03-12;10:02;001;Cookie;Pâtisseries;1;1,80
+A260312-0048;2026-03-12;10:11;001;Pain de campagne;Pains;1;3,50
+A260312-0048;2026-03-12;10:11;001;Baguette tradition;Pains;2;2,60
+A260312-0049;2026-03-12;10:36;001;Baguette tradition;Pains;1;1,30
+A260312-0050;2026-03-12;10:54;001;Quiche lorraine;Snacking;1;4,20
+A260312-0050;2026-03-12;10:54;001;Baguette tradition;Pains;1;1,30
+A260312-0051;2026-03-12;11:12;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0052;2026-03-12;11:14;001;Cookie;Pâtisseries;1;1,80
+A260312-0052;2026-03-12;11:14;001;Croissant;Viennoiseries;1;1,20
+A260312-0053;2026-03-12;11:18;001;Quiche lorraine;Snacking;1;4,20
+A260312-0054;2026-03-12;11:25;001;Cookie;Pâtisseries;1;1,80
+A260312-0054;2026-03-12;11:25;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0055;2026-03-12;11:26;001;Formule déjeuner;Snacking;1;8,90
+A260312-0055;2026-03-12;11:26;001;Baguette tradition;Pains;1;1,30
+A260312-0055;2026-03-12;11:26;001;Croissant;Viennoiseries;1;1,20
+A260312-0056;2026-03-12;12:01;001;Baguette tradition;Pains;3;3,90
+A260312-0056;2026-03-12;12:01;001;Cookie;Pâtisseries;1;1,80
+A260312-0057;2026-03-12;12:05;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0057;2026-03-12;12:05;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0058;2026-03-12;12:05;001;Baguette tradition;Pains;1;1,30
+A260312-0059;2026-03-12;12:07;001;Pain au chocolat;Viennoiseries;2;2,80
+A260312-0060;2026-03-12;12:09;001;Baguette tradition;Pains;2;2,60
+A260312-0061;2026-03-12;12:11;001;Quiche lorraine;Snacking;1;4,20
+A260312-0061;2026-03-12;12:11;001;Pain de campagne;Pains;1;3,50
+A260312-0062;2026-03-12;12:13;001;Croissant;Viennoiseries;1;1,20
+A260312-0063;2026-03-12;12:24;001;Croissant;Viennoiseries;1;1,20
+A260312-0063;2026-03-12;12:24;001;Pain au chocolat;Viennoiseries;2;2,80
+A260312-0063;2026-03-12;12:24;001;Quiche lorraine;Snacking;1;4,20
+A260312-0064;2026-03-12;12:37;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0064;2026-03-12;12:37;001;Croissant;Viennoiseries;2;2,40
+A260312-0065;2026-03-12;12:41;001;Baguette tradition;Pains;1;1,30
+A260312-0066;2026-03-12;12:45;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0066;2026-03-12;12:45;001;Croissant;Viennoiseries;1;1,20
+A260312-0067;2026-03-12;12:53;001;Pain au chocolat;Viennoiseries;2;2,80
+A260312-0067;2026-03-12;12:53;001;Cookie;Pâtisseries;2;3,60
+A260312-0068;2026-03-12;12:57;001;Baguette tradition;Pains;1;1,30
+A260312-0068;2026-03-12;12:57;001;Formule déjeuner;Snacking;1;8,90
+A260312-0069;2026-03-12;12:59;001;Pain de campagne;Pains;1;3,50
+A260312-0069;2026-03-12;12:59;001;Croissant;Viennoiseries;1;1,20
+A260312-0069;2026-03-12;12:59;001;Baguette tradition;Pains;1;1,30
+A260312-0070;2026-03-12;13:19;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0070;2026-03-12;13:19;001;Baguette tradition;Pains;1;1,30
+A260312-0071;2026-03-12;13:24;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0071;2026-03-12;13:24;001;Formule déjeuner;Snacking;1;8,90
+A260312-0072;2026-03-12;13:34;001;Pain de campagne;Pains;2;7,00
+A260312-0072;2026-03-12;13:34;001;Éclair café;Pâtisseries;2;5,60
+A260312-0072;2026-03-12;13:34;001;Baguette tradition;Pains;2;2,60
+A260312-0073;2026-03-12;13:36;001;Baguette tradition;Pains;1;1,30
+A260312-0074;2026-03-12;13:42;001;Baguette tradition;Pains;1;1,30
+A260312-0074;2026-03-12;13:42;001;Croissant;Viennoiseries;1;1,20
+A260312-0074;2026-03-12;13:42;001;Quiche lorraine;Snacking;1;4,20
+A260312-0075;2026-03-12;13:47;001;Quiche lorraine;Snacking;1;4,20
+A260312-0076;2026-03-12;14:02;001;Croissant;Viennoiseries;1;1,20
+A260312-0077;2026-03-12;14:06;001;Croissant;Viennoiseries;1;1,20
+A260312-0078;2026-03-12;14:36;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260312-0079;2026-03-12;15:01;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260312-0079;2026-03-12;15:01;001;Baguette tradition;Pains;1;1,30
+A260312-0080;2026-03-12;15:06;001;Baguette tradition;Pains;1;1,30
+A260312-0080;2026-03-12;15:06;001;Croissant;Viennoiseries;1;1,20
+A260312-0081;2026-03-12;15:28;001;Baguette tradition;Pains;3;3,90
+A260312-0082;2026-03-12;15:29;001;Croissant;Viennoiseries;1;1,20
+A260312-0083;2026-03-12;15:34;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0084;2026-03-12;15:52;001;Croissant;Viennoiseries;1;1,20
+A260312-0084;2026-03-12;15:52;001;Baguette tradition;Pains;2;2,60
+A260312-0084;2026-03-12;15:52;001;Quiche lorraine;Snacking;1;4,20
+A260312-0085;2026-03-12;15:58;001;Cookie;Pâtisseries;1;1,80
+A260312-0086;2026-03-12;16:46;001;Croissant;Viennoiseries;1;1,20
+A260312-0087;2026-03-12;17:09;001;Quiche lorraine;Snacking;1;4,20
+A260312-0087;2026-03-12;17:09;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0088;2026-03-12;17:11;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0088;2026-03-12;17:11;001;Baguette tradition;Pains;2;2,60
+A260312-0089;2026-03-12;17:15;001;Baguette tradition;Pains;1;1,30
+A260312-0090;2026-03-12;17:18;001;Baguette tradition;Pains;2;2,60
+A260312-0091;2026-03-12;17:21;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0092;2026-03-12;17:37;001;Baguette tradition;Pains;1;1,30
+A260312-0093;2026-03-12;17:37;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0093;2026-03-12;17:37;001;Éclair café;Pâtisseries;1;2,80
+A260312-0094;2026-03-12;17:46;001;Baguette tradition;Pains;2;2,60
+A260312-0094;2026-03-12;17:46;001;Croissant;Viennoiseries;1;1,20
+A260312-0095;2026-03-12;17:57;001;Formule déjeuner;Snacking;2;17,80
+A260312-0095;2026-03-12;17:57;001;Pain de campagne;Pains;1;3,50
+A260312-0096;2026-03-12;18:00;001;Pain au chocolat;Viennoiseries;2;2,80
+A260312-0097;2026-03-12;18:03;001;Croissant;Viennoiseries;1;1,20
+A260312-0097;2026-03-12;18:03;001;Baguette tradition;Pains;1;1,30
+A260312-0098;2026-03-12;18:07;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0099;2026-03-12;18:09;001;Quiche lorraine;Snacking;1;4,20
+A260312-0099;2026-03-12;18:09;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260312-0099;2026-03-12;18:09;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0100;2026-03-12;18:14;001;Baguette tradition;Pains;1;1,30
+A260312-0100;2026-03-12;18:14;001;Quiche lorraine;Snacking;2;8,40
+A260312-0100;2026-03-12;18:14;001;Formule déjeuner;Snacking;1;8,90
+A260312-0101;2026-03-12;18:22;001;Croissant;Viennoiseries;1;1,20
+A260312-0101;2026-03-12;18:22;001;Formule déjeuner;Snacking;2;17,80
+A260312-0102;2026-03-12;18:31;001;Baguette tradition;Pains;1;1,30
+A260312-0103;2026-03-12;18:33;001;Éclair café;Pâtisseries;2;5,60
+A260312-0104;2026-03-12;18:34;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0105;2026-03-12;18:34;001;Baguette tradition;Pains;1;1,30
+A260312-0106;2026-03-12;18:35;001;Formule déjeuner;Snacking;1;8,90
+A260312-0107;2026-03-12;18:45;001;Croissant;Viennoiseries;2;2,40
+A260312-0108;2026-03-12;18:54;001;Baguette tradition;Pains;2;2,60
+A260312-0109;2026-03-12;18:58;001;Formule déjeuner;Snacking;1;8,90
+A260312-0109;2026-03-12;18:58;001;Éclair café;Pâtisseries;1;2,80
+A260312-0109;2026-03-12;18:58;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0110;2026-03-12;19:02;001;Quiche lorraine;Snacking;1;4,20
+A260312-0110;2026-03-12;19:02;001;Formule déjeuner;Snacking;2;17,80
+A260312-0111;2026-03-12;19:03;001;Éclair café;Pâtisseries;1;2,80
+A260312-0111;2026-03-12;19:03;001;Croissant;Viennoiseries;2;2,40
+A260312-0112;2026-03-12;19:14;001;Baguette tradition;Pains;1;1,30
+A260312-0113;2026-03-12;19:26;001;Formule déjeuner;Snacking;1;8,90
+A260312-0114;2026-03-12;19:31;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0114;2026-03-12;19:31;001;Cookie;Pâtisseries;2;3,60
+A260312-0115;2026-03-12;19:39;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0116;2026-03-12;19:50;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260312-0117;2026-03-12;19:53;001;Pain au chocolat;Viennoiseries;1;1,40
+A260312-0117;2026-03-12;19:53;001;Formule déjeuner;Snacking;2;17,80
+A260312-0118;2026-03-12;19:56;001;Baguette tradition;Pains;3;3,90
+A260312-0118;2026-03-12;19:56;001;Croissant;Viennoiseries;1;1,20
+A260313-0001;2026-03-13;07:00;001;Quiche lorraine;Snacking;2;8,40
+A260313-0001;2026-03-13;07:00;001;Baguette tradition;Pains;1;1,30
+A260313-0002;2026-03-13;07:01;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260313-0002;2026-03-13;07:01;001;Baguette tradition;Pains;1;1,30
+A260313-0003;2026-03-13;07:02;001;Pain de campagne;Pains;1;3,50
+A260313-0003;2026-03-13;07:02;001;Croissant;Viennoiseries;1;1,20
+A260313-0004;2026-03-13;07:12;001;Baguette tradition;Pains;1;1,30
+A260313-0005;2026-03-13;07:13;001;Baguette tradition;Pains;2;2,60
+A260313-0006;2026-03-13;07:20;001;Baguette tradition;Pains;2;2,60
+A260313-0006;2026-03-13;07:20;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0006;2026-03-13;07:20;001;Éclair café;Pâtisseries;1;2,80
+A260313-0007;2026-03-13;07:20;001;Quiche lorraine;Snacking;2;8,40
+A260313-0008;2026-03-13;07:26;001;Baguette tradition;Pains;2;2,60
+A260313-0009;2026-03-13;07:27;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0010;2026-03-13;07:31;001;Éclair café;Pâtisseries;1;2,80
+A260313-0011;2026-03-13;07:33;001;Baguette tradition;Pains;2;2,60
+A260313-0012;2026-03-13;07:35;001;Baguette tradition;Pains;3;3,90
+A260313-0013;2026-03-13;07:36;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260313-0013;2026-03-13;07:36;001;Baguette tradition;Pains;1;1,30
+A260313-0013;2026-03-13;07:36;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0014;2026-03-13;07:39;001;Baguette tradition;Pains;2;2,60
+A260313-0014;2026-03-13;07:39;001;Cookie;Pâtisseries;1;1,80
+A260313-0015;2026-03-13;07:44;001;Baguette tradition;Pains;2;2,60
+A260313-0016;2026-03-13;07:50;001;Quiche lorraine;Snacking;1;4,20
+A260313-0017;2026-03-13;07:50;001;Formule déjeuner;Snacking;1;8,90
+A260313-0017;2026-03-13;07:50;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0017;2026-03-13;07:50;001;Cookie;Pâtisseries;1;1,80
+A260313-0018;2026-03-13;07:54;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260313-0019;2026-03-13;07:59;001;Pain de campagne;Pains;1;3,50
+A260313-0019;2026-03-13;07:59;001;Pain au chocolat;Viennoiseries;2;2,80
+A260313-0020;2026-03-13;08:00;001;Baguette tradition;Pains;3;3,90
+A260313-0021;2026-03-13;08:01;001;Croissant;Viennoiseries;1;1,20
+A260313-0022;2026-03-13;08:03;001;Quiche lorraine;Snacking;2;8,40
+A260313-0023;2026-03-13;08:06;001;Formule déjeuner;Snacking;1;8,90
+A260313-0024;2026-03-13;08:08;001;Croissant;Viennoiseries;1;1,20
+A260313-0025;2026-03-13;08:12;001;Baguette tradition;Pains;1;1,30
+A260313-0026;2026-03-13;08:13;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0026;2026-03-13;08:13;001;Pain de campagne;Pains;1;3,50
+A260313-0027;2026-03-13;08:13;001;Croissant;Viennoiseries;1;1,20
+A260313-0027;2026-03-13;08:13;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0028;2026-03-13;08:20;001;Baguette tradition;Pains;1;1,30
+A260313-0029;2026-03-13;08:21;001;Croissant;Viennoiseries;2;2,40
+A260313-0030;2026-03-13;08:28;001;Baguette tradition;Pains;3;3,90
+A260313-0031;2026-03-13;08:29;001;Croissant;Viennoiseries;2;2,40
+A260313-0032;2026-03-13;08:34;001;Formule déjeuner;Snacking;3;26,70
+A260313-0033;2026-03-13;08:35;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0034;2026-03-13;08:35;001;Baguette tradition;Pains;1;1,30
+A260313-0035;2026-03-13;08:39;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0036;2026-03-13;08:44;001;Croissant;Viennoiseries;1;1,20
+A260313-0036;2026-03-13;08:44;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260313-0037;2026-03-13;08:47;001;Baguette tradition;Pains;2;2,60
+A260313-0038;2026-03-13;08:48;001;Éclair café;Pâtisseries;1;2,80
+A260313-0039;2026-03-13;08:48;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0039;2026-03-13;08:48;001;Éclair café;Pâtisseries;1;2,80
+A260313-0040;2026-03-13;09:42;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0040;2026-03-13;09:42;001;Baguette tradition;Pains;1;1,30
+A260313-0041;2026-03-13;09:42;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0041;2026-03-13;09:42;001;Cookie;Pâtisseries;1;1,80
+A260313-0041;2026-03-13;09:42;001;Croissant;Viennoiseries;1;1,20
+A260313-0042;2026-03-13;09:49;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260313-0042;2026-03-13;09:49;001;Cookie;Pâtisseries;1;1,80
+A260313-0043;2026-03-13;10:02;001;Pain de campagne;Pains;1;3,50
+A260313-0043;2026-03-13;10:02;001;Éclair café;Pâtisseries;1;2,80
+A260313-0044;2026-03-13;10:18;001;Croissant;Viennoiseries;1;1,20
+A260313-0044;2026-03-13;10:18;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260313-0045;2026-03-13;10:18;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0046;2026-03-13;11:01;001;Baguette tradition;Pains;2;2,60
+A260313-0047;2026-03-13;11:20;001;Croissant;Viennoiseries;1;1,20
+A260313-0048;2026-03-13;11:25;001;Baguette tradition;Pains;2;2,60
+A260313-0049;2026-03-13;11:35;001;Baguette tradition;Pains;1;1,30
+A260313-0050;2026-03-13;11:38;001;Baguette tradition;Pains;1;1,30
+A260313-0050;2026-03-13;11:38;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0051;2026-03-13;11:41;001;Croissant;Viennoiseries;1;1,20
+A260313-0051;2026-03-13;11:41;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0051;2026-03-13;11:41;001;Baguette tradition;Pains;1;1,30
+A260313-0052;2026-03-13;11:51;001;Cookie;Pâtisseries;1;1,80
+A260313-0053;2026-03-13;11:54;001;Croissant;Viennoiseries;1;1,20
+A260313-0053;2026-03-13;11:54;001;Formule déjeuner;Snacking;1;8,90
+A260313-0054;2026-03-13;11:56;001;Quiche lorraine;Snacking;2;8,40
+A260313-0055;2026-03-13;11:58;001;Croissant;Viennoiseries;1;1,20
+A260313-0056;2026-03-13;11:59;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0056;2026-03-13;11:59;001;Baguette tradition;Pains;1;1,30
+A260313-0057;2026-03-13;12:06;001;Quiche lorraine;Snacking;1;4,20
+A260313-0057;2026-03-13;12:06;001;Croissant;Viennoiseries;1;1,20
+A260313-0058;2026-03-13;12:07;001;Baguette tradition;Pains;1;1,30
+A260313-0059;2026-03-13;12:08;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260313-0059;2026-03-13;12:08;001;Croissant;Viennoiseries;1;1,20
+A260313-0060;2026-03-13;12:08;001;Cookie;Pâtisseries;1;1,80
+A260313-0061;2026-03-13;12:10;001;Baguette tradition;Pains;3;3,90
+A260313-0062;2026-03-13;12:11;001;Croissant;Viennoiseries;1;1,20
+A260313-0062;2026-03-13;12:11;001;Quiche lorraine;Snacking;1;4,20
+A260313-0062;2026-03-13;12:11;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260313-0063;2026-03-13;12:11;001;Pain de campagne;Pains;1;3,50
+A260313-0063;2026-03-13;12:11;001;Cookie;Pâtisseries;1;1,80
+A260313-0064;2026-03-13;12:13;001;Croissant;Viennoiseries;1;1,20
+A260313-0065;2026-03-13;12:17;001;Baguette tradition;Pains;1;1,30
+A260313-0066;2026-03-13;12:18;001;Éclair café;Pâtisseries;1;2,80
+A260313-0066;2026-03-13;12:18;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260313-0067;2026-03-13;12:18;001;Pain de campagne;Pains;1;3,50
+A260313-0067;2026-03-13;12:18;001;Baguette tradition;Pains;3;3,90
+A260313-0068;2026-03-13;12:19;001;Croissant;Viennoiseries;1;1,20
+A260313-0069;2026-03-13;12:24;001;Croissant;Viennoiseries;1;1,20
+A260313-0070;2026-03-13;12:25;001;Pain de campagne;Pains;1;3,50
+A260313-0071;2026-03-13;12:29;001;Baguette tradition;Pains;1;1,30
+A260313-0072;2026-03-13;12:31;001;Baguette tradition;Pains;1;1,30
+A260313-0072;2026-03-13;12:31;001;Pain de campagne;Pains;1;3,50
+A260313-0073;2026-03-13;12:32;001;Pain de campagne;Pains;1;3,50
+A260313-0074;2026-03-13;12:36;001;Éclair café;Pâtisseries;2;5,60
+A260313-0074;2026-03-13;12:36;001;Croissant;Viennoiseries;1;1,20
+A260313-0075;2026-03-13;12:41;001;Quiche lorraine;Snacking;1;4,20
+A260313-0076;2026-03-13;12:41;001;Quiche lorraine;Snacking;1;4,20
+A260313-0076;2026-03-13;12:41;001;Pain de campagne;Pains;1;3,50
+A260313-0077;2026-03-13;12:45;001;Baguette tradition;Pains;1;1,30
+A260313-0077;2026-03-13;12:45;001;Croissant;Viennoiseries;1;1,20
+A260313-0078;2026-03-13;12:47;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0079;2026-03-13;12:49;001;Baguette tradition;Pains;1;1,30
+A260313-0080;2026-03-13;12:55;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260313-0081;2026-03-13;13:00;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260313-0082;2026-03-13;13:04;001;Baguette tradition;Pains;1;1,30
+A260313-0083;2026-03-13;13:05;001;Formule déjeuner;Snacking;1;8,90
+A260313-0083;2026-03-13;13:05;001;Quiche lorraine;Snacking;1;4,20
+A260313-0084;2026-03-13;13:05;001;Cookie;Pâtisseries;1;1,80
+A260313-0085;2026-03-13;13:06;001;Formule déjeuner;Snacking;2;17,80
+A260313-0086;2026-03-13;13:07;001;Pain de campagne;Pains;1;3,50
+A260313-0086;2026-03-13;13:07;001;Éclair café;Pâtisseries;2;5,60
+A260313-0087;2026-03-13;13:15;001;Baguette tradition;Pains;1;1,30
+A260313-0087;2026-03-13;13:15;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260313-0088;2026-03-13;13:23;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260313-0089;2026-03-13;13:24;001;Croissant;Viennoiseries;2;2,40
+A260313-0090;2026-03-13;13:24;001;Pain de campagne;Pains;2;7,00
+A260313-0091;2026-03-13;13:25;001;Croissant;Viennoiseries;2;2,40
+A260313-0092;2026-03-13;13:39;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260313-0093;2026-03-13;13:41;001;Pain de campagne;Pains;2;7,00
+A260313-0094;2026-03-13;13:43;001;Baguette tradition;Pains;1;1,30
+A260313-0095;2026-03-13;13:44;001;Pain de campagne;Pains;1;3,50
+A260313-0095;2026-03-13;13:44;001;Croissant;Viennoiseries;1;1,20
+A260313-0095;2026-03-13;13:44;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260313-0096;2026-03-13;13:45;001;Croissant;Viennoiseries;1;1,20
+A260313-0097;2026-03-13;13:45;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260313-0097;2026-03-13;13:45;001;Pain au chocolat;Viennoiseries;2;2,80
+A260313-0098;2026-03-13;13:50;001;Quiche lorraine;Snacking;1;4,20
+A260313-0099;2026-03-13;13:50;001;Baguette tradition;Pains;1;1,30
+A260313-0100;2026-03-13;13:52;001;Éclair café;Pâtisseries;1;2,80
+A260313-0101;2026-03-13;13:56;001;Baguette tradition;Pains;1;1,30
+A260313-0102;2026-03-13;14:05;001;Formule déjeuner;Snacking;1;8,90
+A260313-0103;2026-03-13;14:18;001;Baguette tradition;Pains;1;1,30
+A260313-0104;2026-03-13;14:39;001;Formule déjeuner;Snacking;1;8,90
+A260313-0105;2026-03-13;14:44;001;Baguette tradition;Pains;1;1,30
+A260313-0105;2026-03-13;14:44;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0106;2026-03-13;14:48;001;Croissant;Viennoiseries;1;1,20
+A260313-0107;2026-03-13;15:24;001;Pain au chocolat;Viennoiseries;2;2,80
+A260313-0108;2026-03-13;15:45;001;Baguette tradition;Pains;1;1,30
+A260313-0108;2026-03-13;15:45;001;Croissant;Viennoiseries;2;2,40
+A260313-0109;2026-03-13;15:53;001;Croissant;Viennoiseries;2;2,40
+A260313-0109;2026-03-13;15:53;001;Formule déjeuner;Snacking;1;8,90
+A260313-0110;2026-03-13;16:18;001;Croissant;Viennoiseries;3;3,60
+A260313-0110;2026-03-13;16:18;001;Baguette tradition;Pains;1;1,30
+A260313-0111;2026-03-13;16:18;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0112;2026-03-13;16:22;001;Croissant;Viennoiseries;2;2,40
+A260313-0112;2026-03-13;16:22;001;Quiche lorraine;Snacking;2;8,40
+A260313-0113;2026-03-13;16:29;001;Croissant;Viennoiseries;1;1,20
+A260313-0113;2026-03-13;16:29;001;Baguette tradition;Pains;2;2,60
+A260313-0114;2026-03-13;16:40;001;Baguette tradition;Pains;1;1,30
+A260313-0115;2026-03-13;17:00;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260313-0115;2026-03-13;17:00;001;Croissant;Viennoiseries;1;1,20
+A260313-0116;2026-03-13;17:19;001;Croissant;Viennoiseries;1;1,20
+A260313-0116;2026-03-13;17:19;001;Quiche lorraine;Snacking;1;4,20
+A260313-0116;2026-03-13;17:19;001;Cookie;Pâtisseries;1;1,80
+A260313-0117;2026-03-13;17:24;001;Baguette tradition;Pains;3;3,90
+A260313-0117;2026-03-13;17:24;001;Croissant;Viennoiseries;1;1,20
+A260313-0118;2026-03-13;17:29;001;Croissant;Viennoiseries;1;1,20
+A260313-0118;2026-03-13;17:29;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0119;2026-03-13;17:44;001;Pain de campagne;Pains;2;7,00
+A260313-0120;2026-03-13;17:45;001;Croissant;Viennoiseries;2;2,40
+A260313-0120;2026-03-13;17:45;001;Éclair café;Pâtisseries;1;2,80
+A260313-0121;2026-03-13;17:47;001;Cookie;Pâtisseries;1;1,80
+A260313-0122;2026-03-13;17:48;001;Croissant;Viennoiseries;1;1,20
+A260313-0122;2026-03-13;17:48;001;Formule déjeuner;Snacking;1;8,90
+A260313-0123;2026-03-13;17:54;001;Pain au chocolat;Viennoiseries;2;2,80
+A260313-0123;2026-03-13;17:54;001;Croissant;Viennoiseries;1;1,20
+A260313-0124;2026-03-13;18:20;001;Baguette tradition;Pains;1;1,30
+A260313-0125;2026-03-13;18:26;001;Baguette tradition;Pains;1;1,30
+A260313-0126;2026-03-13;18:31;001;Baguette tradition;Pains;1;1,30
+A260313-0126;2026-03-13;18:31;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0127;2026-03-13;18:32;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260313-0128;2026-03-13;18:33;001;Quiche lorraine;Snacking;2;8,40
+A260313-0129;2026-03-13;18:43;001;Formule déjeuner;Snacking;1;8,90
+A260313-0130;2026-03-13;18:51;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260313-0131;2026-03-13;18:53;001;Baguette tradition;Pains;1;1,30
+A260313-0131;2026-03-13;18:53;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0132;2026-03-13;18:59;001;Pain au chocolat;Viennoiseries;1;1,40
+A260313-0132;2026-03-13;18:59;001;Baguette tradition;Pains;1;1,30
+A260313-0133;2026-03-13;19:00;001;Baguette tradition;Pains;1;1,30
+A260313-0134;2026-03-13;19:30;001;Baguette tradition;Pains;1;1,30
+A260313-0135;2026-03-13;19:32;001;Croissant;Viennoiseries;1;1,20
+A260313-0136;2026-03-13;19:34;001;Pain de campagne;Pains;1;3,50
+A260313-0137;2026-03-13;19:37;001;Baguette tradition;Pains;4;5,20
+A260313-0137;2026-03-13;19:37;001;Croissant;Viennoiseries;1;1,20
+A260313-0138;2026-03-13;19:53;001;Baguette tradition;Pains;1;1,30
+A260313-0139;2026-03-13;19:56;001;Quiche lorraine;Snacking;1;4,20
+A260314-0001;2026-03-14;07:00;001;Baguette tradition;Pains;2;2,60
+A260314-0002;2026-03-14;07:02;001;Pain de campagne;Pains;1;3,50
+A260314-0003;2026-03-14;07:02;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0003;2026-03-14;07:02;001;Éclair café;Pâtisseries;1;2,80
+A260314-0004;2026-03-14;07:03;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0005;2026-03-14;07:04;001;Cookie;Pâtisseries;1;1,80
+A260314-0006;2026-03-14;07:06;001;Quiche lorraine;Snacking;1;4,20
+A260314-0007;2026-03-14;07:11;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0008;2026-03-14;07:13;001;Croissant;Viennoiseries;1;1,20
+A260314-0009;2026-03-14;07:15;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0009;2026-03-14;07:15;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0010;2026-03-14;07:16;001;Baguette tradition;Pains;2;2,60
+A260314-0011;2026-03-14;07:22;001;Quiche lorraine;Snacking;1;4,20
+A260314-0012;2026-03-14;07:24;001;Cookie;Pâtisseries;1;1,80
+A260314-0012;2026-03-14;07:24;001;Baguette tradition;Pains;1;1,30
+A260314-0013;2026-03-14;07:27;001;Baguette tradition;Pains;1;1,30
+A260314-0014;2026-03-14;07:27;001;Baguette tradition;Pains;2;2,60
+A260314-0015;2026-03-14;07:28;001;Formule déjeuner;Snacking;1;8,90
+A260314-0015;2026-03-14;07:28;001;Baguette tradition;Pains;1;1,30
+A260314-0015;2026-03-14;07:28;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0016;2026-03-14;07:31;001;Croissant;Viennoiseries;1;1,20
+A260314-0017;2026-03-14;07:32;001;Cookie;Pâtisseries;1;1,80
+A260314-0018;2026-03-14;07:34;001;Formule déjeuner;Snacking;2;17,80
+A260314-0019;2026-03-14;07:35;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0019;2026-03-14;07:35;001;Éclair café;Pâtisseries;1;2,80
+A260314-0020;2026-03-14;07:39;001;Croissant;Viennoiseries;1;1,20
+A260314-0020;2026-03-14;07:39;001;Formule déjeuner;Snacking;1;8,90
+A260314-0021;2026-03-14;07:40;001;Baguette tradition;Pains;2;2,60
+A260314-0022;2026-03-14;07:41;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0023;2026-03-14;07:44;001;Baguette tradition;Pains;2;2,60
+A260314-0024;2026-03-14;07:53;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0025;2026-03-14;07:56;001;Baguette tradition;Pains;1;1,30
+A260314-0026;2026-03-14;07:59;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0027;2026-03-14;07:59;001;Formule déjeuner;Snacking;1;8,90
+A260314-0027;2026-03-14;07:59;001;Baguette tradition;Pains;1;1,30
+A260314-0028;2026-03-14;08:01;001;Formule déjeuner;Snacking;1;8,90
+A260314-0029;2026-03-14;08:04;001;Pain de campagne;Pains;2;7,00
+A260314-0029;2026-03-14;08:04;001;Baguette tradition;Pains;1;1,30
+A260314-0030;2026-03-14;08:08;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0031;2026-03-14;08:09;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0031;2026-03-14;08:09;001;Baguette tradition;Pains;1;1,30
+A260314-0032;2026-03-14;08:12;001;Cookie;Pâtisseries;1;1,80
+A260314-0032;2026-03-14;08:12;001;Pain de campagne;Pains;1;3,50
+A260314-0033;2026-03-14;08:12;001;Baguette tradition;Pains;1;1,30
+A260314-0034;2026-03-14;08:14;001;Pain de campagne;Pains;1;3,50
+A260314-0034;2026-03-14;08:14;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0035;2026-03-14;08:18;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0036;2026-03-14;08:20;001;Baguette tradition;Pains;2;2,60
+A260314-0036;2026-03-14;08:20;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260314-0037;2026-03-14;08:22;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260314-0038;2026-03-14;08:28;001;Pain de campagne;Pains;1;3,50
+A260314-0038;2026-03-14;08:28;001;Croissant;Viennoiseries;1;1,20
+A260314-0038;2026-03-14;08:28;001;Cookie;Pâtisseries;1;1,80
+A260314-0039;2026-03-14;08:32;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0040;2026-03-14;08:32;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0040;2026-03-14;08:32;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0041;2026-03-14;08:33;001;Baguette tradition;Pains;1;1,30
+A260314-0041;2026-03-14;08:33;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0041;2026-03-14;08:33;001;Formule déjeuner;Snacking;1;8,90
+A260314-0042;2026-03-14;08:34;001;Croissant;Viennoiseries;1;1,20
+A260314-0042;2026-03-14;08:34;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0042;2026-03-14;08:34;001;Baguette tradition;Pains;1;1,30
+A260314-0043;2026-03-14;08:35;001;Formule déjeuner;Snacking;1;8,90
+A260314-0044;2026-03-14;08:37;001;Croissant;Viennoiseries;1;1,20
+A260314-0045;2026-03-14;08:38;001;Croissant;Viennoiseries;1;1,20
+A260314-0045;2026-03-14;08:38;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0046;2026-03-14;08:38;001;Croissant;Viennoiseries;1;1,20
+A260314-0047;2026-03-14;08:43;001;Éclair café;Pâtisseries;1;2,80
+A260314-0047;2026-03-14;08:43;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0048;2026-03-14;08:50;001;Éclair café;Pâtisseries;1;2,80
+A260314-0048;2026-03-14;08:50;001;Croissant;Viennoiseries;1;1,20
+A260314-0049;2026-03-14;08:56;001;Quiche lorraine;Snacking;1;4,20
+A260314-0050;2026-03-14;08:56;001;Quiche lorraine;Snacking;1;4,20
+A260314-0051;2026-03-14;08:56;001;Baguette tradition;Pains;1;1,30
+A260314-0052;2026-03-14;08:59;001;Éclair café;Pâtisseries;1;2,80
+A260314-0052;2026-03-14;08:59;001;Cookie;Pâtisseries;1;1,80
+A260314-0053;2026-03-14;09:07;001;Cookie;Pâtisseries;1;1,80
+A260314-0054;2026-03-14;09:19;001;Sandwich jambon-beurre;Snacking;3;14,70
+A260314-0055;2026-03-14;09:20;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0055;2026-03-14;09:20;001;Baguette tradition;Pains;1;1,30
+A260314-0056;2026-03-14;09:33;001;Baguette tradition;Pains;1;1,30
+A260314-0057;2026-03-14;09:33;001;Baguette tradition;Pains;3;3,90
+A260314-0057;2026-03-14;09:33;001;Formule déjeuner;Snacking;2;17,80
+A260314-0058;2026-03-14;09:42;001;Baguette tradition;Pains;1;1,30
+A260314-0059;2026-03-14;09:46;001;Baguette tradition;Pains;3;3,90
+A260314-0060;2026-03-14;09:46;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0060;2026-03-14;09:46;001;Baguette tradition;Pains;2;2,60
+A260314-0061;2026-03-14;09:49;001;Cookie;Pâtisseries;1;1,80
+A260314-0061;2026-03-14;09:49;001;Baguette tradition;Pains;2;2,60
+A260314-0062;2026-03-14;09:55;001;Quiche lorraine;Snacking;1;4,20
+A260314-0063;2026-03-14;09:59;001;Cookie;Pâtisseries;1;1,80
+A260314-0064;2026-03-14;10:07;001;Baguette tradition;Pains;2;2,60
+A260314-0065;2026-03-14;10:08;001;Pain de campagne;Pains;3;10,50
+A260314-0066;2026-03-14;10:14;001;Baguette tradition;Pains;1;1,30
+A260314-0067;2026-03-14;10:15;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0068;2026-03-14;10:22;001;Pain de campagne;Pains;1;3,50
+A260314-0069;2026-03-14;10:22;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0069;2026-03-14;10:22;001;Croissant;Viennoiseries;1;1,20
+A260314-0070;2026-03-14;10:28;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0071;2026-03-14;10:35;001;Baguette tradition;Pains;1;1,30
+A260314-0072;2026-03-14;10:36;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0073;2026-03-14;10:39;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0074;2026-03-14;10:42;001;Croissant;Viennoiseries;1;1,20
+A260314-0075;2026-03-14;10:42;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260314-0076;2026-03-14;10:42;001;Formule déjeuner;Snacking;1;8,90
+A260314-0077;2026-03-14;10:59;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0077;2026-03-14;10:59;001;Quiche lorraine;Snacking;1;4,20
+A260314-0078;2026-03-14;11:03;001;Formule déjeuner;Snacking;2;17,80
+A260314-0079;2026-03-14;11:12;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0080;2026-03-14;11:27;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0080;2026-03-14;11:27;001;Baguette tradition;Pains;2;2,60
+A260314-0081;2026-03-14;11:34;001;Éclair café;Pâtisseries;1;2,80
+A260314-0081;2026-03-14;11:34;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0082;2026-03-14;11:45;001;Éclair café;Pâtisseries;1;2,80
+A260314-0082;2026-03-14;11:45;001;Baguette tradition;Pains;1;1,30
+A260314-0083;2026-03-14;11:46;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0084;2026-03-14;11:54;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0084;2026-03-14;11:54;001;Baguette tradition;Pains;2;2,60
+A260314-0085;2026-03-14;12:01;001;Croissant;Viennoiseries;1;1,20
+A260314-0085;2026-03-14;12:01;001;Formule déjeuner;Snacking;1;8,90
+A260314-0086;2026-03-14;12:02;001;Croissant;Viennoiseries;1;1,20
+A260314-0087;2026-03-14;12:07;001;Cookie;Pâtisseries;1;1,80
+A260314-0088;2026-03-14;12:08;001;Formule déjeuner;Snacking;1;8,90
+A260314-0089;2026-03-14;12:09;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0090;2026-03-14;12:12;001;Baguette tradition;Pains;3;3,90
+A260314-0090;2026-03-14;12:12;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0091;2026-03-14;12:13;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0091;2026-03-14;12:13;001;Formule déjeuner;Snacking;1;8,90
+A260314-0092;2026-03-14;12:15;001;Baguette tradition;Pains;1;1,30
+A260314-0092;2026-03-14;12:15;001;Formule déjeuner;Snacking;1;8,90
+A260314-0092;2026-03-14;12:15;001;Croissant;Viennoiseries;1;1,20
+A260314-0093;2026-03-14;12:15;001;Baguette tradition;Pains;2;2,60
+A260314-0093;2026-03-14;12:15;001;Éclair café;Pâtisseries;2;5,60
+A260314-0094;2026-03-14;12:16;001;Baguette tradition;Pains;2;2,60
+A260314-0095;2026-03-14;12:16;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0096;2026-03-14;12:20;001;Croissant;Viennoiseries;1;1,20
+A260314-0096;2026-03-14;12:20;001;Éclair café;Pâtisseries;1;2,80
+A260314-0097;2026-03-14;12:21;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0097;2026-03-14;12:21;001;Croissant;Viennoiseries;1;1,20
+A260314-0097;2026-03-14;12:21;001;Baguette tradition;Pains;3;3,90
+A260314-0098;2026-03-14;12:21;001;Baguette tradition;Pains;1;1,30
+A260314-0099;2026-03-14;12:23;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0100;2026-03-14;12:24;001;Formule déjeuner;Snacking;1;8,90
+A260314-0100;2026-03-14;12:24;001;Éclair café;Pâtisseries;2;5,60
+A260314-0101;2026-03-14;12:26;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0102;2026-03-14;12:27;001;Croissant;Viennoiseries;1;1,20
+A260314-0103;2026-03-14;12:29;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0104;2026-03-14;12:30;001;Croissant;Viennoiseries;2;2,40
+A260314-0105;2026-03-14;12:32;001;Baguette tradition;Pains;3;3,90
+A260314-0105;2026-03-14;12:32;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0106;2026-03-14;12:33;001;Baguette tradition;Pains;2;2,60
+A260314-0107;2026-03-14;12:35;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0108;2026-03-14;12:38;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0109;2026-03-14;12:44;001;Formule déjeuner;Snacking;1;8,90
+A260314-0110;2026-03-14;12:46;001;Baguette tradition;Pains;1;1,30
+A260314-0111;2026-03-14;12:48;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0111;2026-03-14;12:48;001;Baguette tradition;Pains;1;1,30
+A260314-0112;2026-03-14;12:49;001;Formule déjeuner;Snacking;1;8,90
+A260314-0112;2026-03-14;12:49;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0113;2026-03-14;12:54;001;Croissant;Viennoiseries;2;2,40
+A260314-0114;2026-03-14;12:55;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0114;2026-03-14;12:55;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0115;2026-03-14;13:00;001;Quiche lorraine;Snacking;2;8,40
+A260314-0116;2026-03-14;13:03;001;Formule déjeuner;Snacking;1;8,90
+A260314-0116;2026-03-14;13:03;001;Baguette tradition;Pains;3;3,90
+A260314-0117;2026-03-14;13:09;001;Cookie;Pâtisseries;1;1,80
+A260314-0117;2026-03-14;13:09;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0118;2026-03-14;13:12;001;Baguette tradition;Pains;1;1,30
+A260314-0119;2026-03-14;13:20;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0120;2026-03-14;13:20;001;Cookie;Pâtisseries;1;1,80
+A260314-0121;2026-03-14;13:23;001;Baguette tradition;Pains;3;3,90
+A260314-0122;2026-03-14;13:35;001;Quiche lorraine;Snacking;1;4,20
+A260314-0122;2026-03-14;13:35;001;Baguette tradition;Pains;1;1,30
+A260314-0123;2026-03-14;13:35;001;Baguette tradition;Pains;3;3,90
+A260314-0124;2026-03-14;13:42;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0124;2026-03-14;13:42;001;Baguette tradition;Pains;1;1,30
+A260314-0125;2026-03-14;13:45;001;Pain de campagne;Pains;3;10,50
+A260314-0126;2026-03-14;13:46;001;Baguette tradition;Pains;1;1,30
+A260314-0127;2026-03-14;13:49;001;Baguette tradition;Pains;1;1,30
+A260314-0127;2026-03-14;13:49;001;Formule déjeuner;Snacking;1;8,90
+A260314-0128;2026-03-14;13:52;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0128;2026-03-14;13:52;001;Éclair café;Pâtisseries;1;2,80
+A260314-0129;2026-03-14;13:52;001;Baguette tradition;Pains;3;3,90
+A260314-0130;2026-03-14;13:55;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0131;2026-03-14;13:56;001;Baguette tradition;Pains;1;1,30
+A260314-0131;2026-03-14;13:56;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0132;2026-03-14;13:59;001;Croissant;Viennoiseries;1;1,20
+A260314-0132;2026-03-14;13:59;001;Quiche lorraine;Snacking;1;4,20
+A260314-0133;2026-03-14;14:08;001;Croissant;Viennoiseries;1;1,20
+A260314-0134;2026-03-14;14:10;001;Quiche lorraine;Snacking;1;4,20
+A260314-0134;2026-03-14;14:10;001;Croissant;Viennoiseries;1;1,20
+A260314-0135;2026-03-14;14:12;001;Baguette tradition;Pains;2;2,60
+A260314-0136;2026-03-14;14:15;001;Cookie;Pâtisseries;1;1,80
+A260314-0137;2026-03-14;14:48;001;Cookie;Pâtisseries;1;1,80
+A260314-0137;2026-03-14;14:48;001;Baguette tradition;Pains;2;2,60
+A260314-0138;2026-03-14;15:03;001;Cookie;Pâtisseries;1;1,80
+A260314-0138;2026-03-14;15:03;001;Éclair café;Pâtisseries;2;5,60
+A260314-0139;2026-03-14;15:47;001;Pain de campagne;Pains;1;3,50
+A260314-0140;2026-03-14;15:55;001;Croissant;Viennoiseries;1;1,20
+A260314-0140;2026-03-14;15:55;001;Quiche lorraine;Snacking;1;4,20
+A260314-0141;2026-03-14;15:57;001;Baguette tradition;Pains;1;1,30
+A260314-0141;2026-03-14;15:57;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0142;2026-03-14;16:16;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0143;2026-03-14;16:25;001;Baguette tradition;Pains;1;1,30
+A260314-0144;2026-03-14;16:32;001;Baguette tradition;Pains;1;1,30
+A260314-0145;2026-03-14;16:41;001;Baguette tradition;Pains;1;1,30
+A260314-0146;2026-03-14;16:52;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0146;2026-03-14;16:52;001;Cookie;Pâtisseries;1;1,80
+A260314-0146;2026-03-14;16:52;001;Quiche lorraine;Snacking;1;4,20
+A260314-0147;2026-03-14;17:06;001;Baguette tradition;Pains;1;1,30
+A260314-0147;2026-03-14;17:06;001;Éclair café;Pâtisseries;1;2,80
+A260314-0148;2026-03-14;17:08;001;Éclair café;Pâtisseries;1;2,80
+A260314-0148;2026-03-14;17:08;001;Baguette tradition;Pains;1;1,30
+A260314-0148;2026-03-14;17:08;001;Cookie;Pâtisseries;1;1,80
+A260314-0149;2026-03-14;17:09;001;Pain de campagne;Pains;1;3,50
+A260314-0149;2026-03-14;17:09;001;Éclair café;Pâtisseries;1;2,80
+A260314-0149;2026-03-14;17:09;001;Croissant;Viennoiseries;1;1,20
+A260314-0150;2026-03-14;17:11;001;Formule déjeuner;Snacking;1;8,90
+A260314-0151;2026-03-14;17:18;001;Baguette tradition;Pains;3;3,90
+A260314-0152;2026-03-14;17:20;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0153;2026-03-14;17:23;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0153;2026-03-14;17:23;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0153;2026-03-14;17:23;001;Formule déjeuner;Snacking;1;8,90
+A260314-0154;2026-03-14;17:35;001;Éclair café;Pâtisseries;1;2,80
+A260314-0154;2026-03-14;17:35;001;Baguette tradition;Pains;1;1,30
+A260314-0155;2026-03-14;17:36;001;Baguette tradition;Pains;1;1,30
+A260314-0155;2026-03-14;17:36;001;Éclair café;Pâtisseries;1;2,80
+A260314-0156;2026-03-14;17:38;001;Cookie;Pâtisseries;1;1,80
+A260314-0156;2026-03-14;17:38;001;Pain de campagne;Pains;1;3,50
+A260314-0157;2026-03-14;17:40;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0157;2026-03-14;17:40;001;Cookie;Pâtisseries;1;1,80
+A260314-0157;2026-03-14;17:40;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0158;2026-03-14;17:41;001;Formule déjeuner;Snacking;1;8,90
+A260314-0158;2026-03-14;17:41;001;Baguette tradition;Pains;3;3,90
+A260314-0159;2026-03-14;17:43;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0159;2026-03-14;17:43;001;Cookie;Pâtisseries;1;1,80
+A260314-0160;2026-03-14;17:46;001;Croissant;Viennoiseries;1;1,20
+A260314-0160;2026-03-14;17:46;001;Cookie;Pâtisseries;1;1,80
+A260314-0161;2026-03-14;17:55;001;Cookie;Pâtisseries;1;1,80
+A260314-0162;2026-03-14;17:55;001;Quiche lorraine;Snacking;1;4,20
+A260314-0163;2026-03-14;17:57;001;Baguette tradition;Pains;1;1,30
+A260314-0164;2026-03-14;18:00;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260314-0165;2026-03-14;18:05;001;Croissant;Viennoiseries;1;1,20
+A260314-0165;2026-03-14;18:05;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0166;2026-03-14;18:12;001;Baguette tradition;Pains;2;2,60
+A260314-0167;2026-03-14;18:19;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0168;2026-03-14;18:21;001;Formule déjeuner;Snacking;1;8,90
+A260314-0169;2026-03-14;18:22;001;Baguette tradition;Pains;3;3,90
+A260314-0169;2026-03-14;18:22;001;Formule déjeuner;Snacking;1;8,90
+A260314-0170;2026-03-14;18:26;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0170;2026-03-14;18:26;001;Éclair café;Pâtisseries;1;2,80
+A260314-0171;2026-03-14;18:33;001;Cookie;Pâtisseries;1;1,80
+A260314-0171;2026-03-14;18:33;001;Baguette tradition;Pains;1;1,30
+A260314-0172;2026-03-14;18:38;001;Éclair café;Pâtisseries;1;2,80
+A260314-0173;2026-03-14;18:39;001;Baguette tradition;Pains;2;2,60
+A260314-0174;2026-03-14;18:51;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0174;2026-03-14;18:51;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0175;2026-03-14;18:52;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0176;2026-03-14;18:54;001;Formule déjeuner;Snacking;1;8,90
+A260314-0177;2026-03-14;18:55;001;Cookie;Pâtisseries;1;1,80
+A260314-0177;2026-03-14;18:55;001;Croissant;Viennoiseries;2;2,40
+A260314-0178;2026-03-14;19:03;001;Baguette tradition;Pains;2;2,60
+A260314-0178;2026-03-14;19:03;001;Formule déjeuner;Snacking;1;8,90
+A260314-0179;2026-03-14;19:10;001;Croissant;Viennoiseries;1;1,20
+A260314-0179;2026-03-14;19:10;001;Baguette tradition;Pains;1;1,30
+A260314-0180;2026-03-14;19:12;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0180;2026-03-14;19:12;001;Cookie;Pâtisseries;1;1,80
+A260314-0181;2026-03-14;19:15;001;Formule déjeuner;Snacking;1;8,90
+A260314-0182;2026-03-14;19:15;001;Baguette tradition;Pains;2;2,60
+A260314-0183;2026-03-14;19:17;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260314-0184;2026-03-14;19:21;001;Formule déjeuner;Snacking;1;8,90
+A260314-0185;2026-03-14;19:23;001;Baguette tradition;Pains;1;1,30
+A260314-0185;2026-03-14;19:23;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0186;2026-03-14;19:24;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0186;2026-03-14;19:24;001;Baguette tradition;Pains;1;1,30
+A260314-0186;2026-03-14;19:24;001;Cookie;Pâtisseries;1;1,80
+A260314-0187;2026-03-14;19:36;001;Croissant;Viennoiseries;1;1,20
+A260314-0187;2026-03-14;19:36;001;Baguette tradition;Pains;1;1,30
+A260314-0188;2026-03-14;19:50;001;Baguette tradition;Pains;1;1,30
+A260314-0189;2026-03-14;19:55;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0189;2026-03-14;19:55;001;Formule déjeuner;Snacking;1;8,90
+A260314-0190;2026-03-14;19:59;001;Baguette tradition;Pains;2;2,60
+A260315-0001;2026-03-15;07:01;001;Baguette tradition;Pains;3;3,90
+A260315-0002;2026-03-15;07:03;001;Croissant;Viennoiseries;3;3,60
+A260315-0003;2026-03-15;07:04;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0004;2026-03-15;07:04;001;Quiche lorraine;Snacking;1;4,20
+A260315-0005;2026-03-15;07:05;001;Croissant;Viennoiseries;1;1,20
+A260315-0006;2026-03-15;07:09;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0006;2026-03-15;07:09;001;Baguette tradition;Pains;1;1,30
+A260315-0007;2026-03-15;07:09;001;Croissant;Viennoiseries;2;2,40
+A260315-0007;2026-03-15;07:09;001;Éclair café;Pâtisseries;1;2,80
+A260315-0007;2026-03-15;07:09;001;Cookie;Pâtisseries;1;1,80
+A260315-0008;2026-03-15;07:17;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0009;2026-03-15;07:18;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0010;2026-03-15;07:18;001;Croissant;Viennoiseries;1;1,20
+A260315-0011;2026-03-15;07:18;001;Quiche lorraine;Snacking;2;8,40
+A260315-0011;2026-03-15;07:18;001;Baguette tradition;Pains;2;2,60
+A260315-0012;2026-03-15;07:19;001;Croissant;Viennoiseries;2;2,40
+A260315-0013;2026-03-15;07:20;001;Quiche lorraine;Snacking;2;8,40
+A260315-0014;2026-03-15;07:26;001;Croissant;Viennoiseries;1;1,20
+A260315-0014;2026-03-15;07:26;001;Cookie;Pâtisseries;2;3,60
+A260315-0014;2026-03-15;07:26;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0015;2026-03-15;07:28;001;Baguette tradition;Pains;1;1,30
+A260315-0016;2026-03-15;07:30;001;Cookie;Pâtisseries;1;1,80
+A260315-0017;2026-03-15;07:32;001;Formule déjeuner;Snacking;1;8,90
+A260315-0017;2026-03-15;07:32;001;Baguette tradition;Pains;1;1,30
+A260315-0018;2026-03-15;07:33;001;Croissant;Viennoiseries;1;1,20
+A260315-0018;2026-03-15;07:33;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0019;2026-03-15;07:34;001;Pain au chocolat;Viennoiseries;2;2,80
+A260315-0020;2026-03-15;07:44;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0021;2026-03-15;07:44;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0021;2026-03-15;07:44;001;Quiche lorraine;Snacking;2;8,40
+A260315-0022;2026-03-15;07:46;001;Baguette tradition;Pains;2;2,60
+A260315-0022;2026-03-15;07:46;001;Formule déjeuner;Snacking;1;8,90
+A260315-0023;2026-03-15;07:48;001;Formule déjeuner;Snacking;2;17,80
+A260315-0023;2026-03-15;07:48;001;Baguette tradition;Pains;1;1,30
+A260315-0024;2026-03-15;07:48;001;Croissant;Viennoiseries;1;1,20
+A260315-0025;2026-03-15;07:53;001;Pain au chocolat;Viennoiseries;2;2,80
+A260315-0026;2026-03-15;07:54;001;Baguette tradition;Pains;1;1,30
+A260315-0026;2026-03-15;07:54;001;Pain de campagne;Pains;1;3,50
+A260315-0027;2026-03-15;07:55;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0028;2026-03-15;07:55;001;Baguette tradition;Pains;1;1,30
+A260315-0029;2026-03-15;07:58;001;Croissant;Viennoiseries;1;1,20
+A260315-0030;2026-03-15;07:58;001;Quiche lorraine;Snacking;1;4,20
+A260315-0030;2026-03-15;07:58;001;Croissant;Viennoiseries;1;1,20
+A260315-0031;2026-03-15;07:59;001;Croissant;Viennoiseries;1;1,20
+A260315-0031;2026-03-15;07:59;001;Baguette tradition;Pains;1;1,30
+A260315-0031;2026-03-15;07:59;001;Pain de campagne;Pains;1;3,50
+A260315-0032;2026-03-15;08:02;001;Éclair café;Pâtisseries;1;2,80
+A260315-0032;2026-03-15;08:02;001;Baguette tradition;Pains;1;1,30
+A260315-0033;2026-03-15;08:07;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0034;2026-03-15;08:11;001;Croissant;Viennoiseries;1;1,20
+A260315-0035;2026-03-15;08:14;001;Baguette tradition;Pains;1;1,30
+A260315-0036;2026-03-15;08:15;001;Croissant;Viennoiseries;1;1,20
+A260315-0036;2026-03-15;08:15;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0037;2026-03-15;08:18;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0038;2026-03-15;08:21;001;Baguette tradition;Pains;1;1,30
+A260315-0038;2026-03-15;08:21;001;Cookie;Pâtisseries;1;1,80
+A260315-0039;2026-03-15;08:23;001;Cookie;Pâtisseries;1;1,80
+A260315-0039;2026-03-15;08:23;001;Formule déjeuner;Snacking;1;8,90
+A260315-0040;2026-03-15;08:26;001;Pain de campagne;Pains;1;3,50
+A260315-0041;2026-03-15;08:27;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260315-0041;2026-03-15;08:27;001;Quiche lorraine;Snacking;1;4,20
+A260315-0042;2026-03-15;08:28;001;Pain de campagne;Pains;1;3,50
+A260315-0042;2026-03-15;08:28;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0043;2026-03-15;08:29;001;Baguette tradition;Pains;2;2,60
+A260315-0044;2026-03-15;08:31;001;Pain de campagne;Pains;1;3,50
+A260315-0045;2026-03-15;08:37;001;Croissant;Viennoiseries;1;1,20
+A260315-0046;2026-03-15;08:43;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0047;2026-03-15;08:45;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260315-0047;2026-03-15;08:45;001;Baguette tradition;Pains;1;1,30
+A260315-0048;2026-03-15;08:46;001;Pain de campagne;Pains;1;3,50
+A260315-0048;2026-03-15;08:46;001;Formule déjeuner;Snacking;2;17,80
+A260315-0048;2026-03-15;08:46;001;Éclair café;Pâtisseries;2;5,60
+A260315-0049;2026-03-15;08:47;001;Baguette tradition;Pains;1;1,30
+A260315-0049;2026-03-15;08:47;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0050;2026-03-15;08:48;001;Quiche lorraine;Snacking;1;4,20
+A260315-0050;2026-03-15;08:48;001;Croissant;Viennoiseries;2;2,40
+A260315-0051;2026-03-15;08:55;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0051;2026-03-15;08:55;001;Pain de campagne;Pains;1;3,50
+A260315-0051;2026-03-15;08:55;001;Baguette tradition;Pains;1;1,30
+A260315-0052;2026-03-15;08:55;001;Baguette tradition;Pains;1;1,30
+A260315-0053;2026-03-15;08:56;001;Formule déjeuner;Snacking;1;8,90
+A260315-0054;2026-03-15;09:06;001;Cookie;Pâtisseries;1;1,80
+A260315-0055;2026-03-15;09:17;001;Baguette tradition;Pains;3;3,90
+A260315-0055;2026-03-15;09:17;001;Pain de campagne;Pains;1;3,50
+A260315-0056;2026-03-15;09:18;001;Baguette tradition;Pains;2;2,60
+A260315-0056;2026-03-15;09:18;001;Formule déjeuner;Snacking;1;8,90
+A260315-0057;2026-03-15;09:25;001;Croissant;Viennoiseries;1;1,20
+A260315-0057;2026-03-15;09:25;001;Baguette tradition;Pains;3;3,90
+A260315-0057;2026-03-15;09:25;001;Éclair café;Pâtisseries;1;2,80
+A260315-0058;2026-03-15;09:26;001;Croissant;Viennoiseries;1;1,20
+A260315-0058;2026-03-15;09:26;001;Formule déjeuner;Snacking;1;8,90
+A260315-0058;2026-03-15;09:26;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0059;2026-03-15;09:29;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0060;2026-03-15;09:35;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0060;2026-03-15;09:35;001;Baguette tradition;Pains;1;1,30
+A260315-0061;2026-03-15;09:41;001;Croissant;Viennoiseries;1;1,20
+A260315-0061;2026-03-15;09:41;001;Quiche lorraine;Snacking;1;4,20
+A260315-0062;2026-03-15;09:54;001;Cookie;Pâtisseries;1;1,80
+A260315-0062;2026-03-15;09:54;001;Baguette tradition;Pains;1;1,30
+A260315-0063;2026-03-15;09:57;001;Croissant;Viennoiseries;2;2,40
+A260315-0064;2026-03-15;10:03;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0065;2026-03-15;10:10;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0066;2026-03-15;10:14;001;Pain de campagne;Pains;1;3,50
+A260315-0067;2026-03-15;10:20;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0068;2026-03-15;10:28;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260315-0069;2026-03-15;10:32;001;Quiche lorraine;Snacking;1;4,20
+A260315-0070;2026-03-15;10:39;001;Éclair café;Pâtisseries;1;2,80
+A260315-0071;2026-03-15;10:52;001;Croissant;Viennoiseries;1;1,20
+A260315-0072;2026-03-15;11:08;001;Éclair café;Pâtisseries;1;2,80
+A260315-0072;2026-03-15;11:08;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0073;2026-03-15;11:18;001;Baguette tradition;Pains;3;3,90
+A260315-0074;2026-03-15;11:21;001;Éclair café;Pâtisseries;1;2,80
+A260315-0074;2026-03-15;11:21;001;Cookie;Pâtisseries;1;1,80
+A260315-0074;2026-03-15;11:21;001;Pain de campagne;Pains;2;7,00
+A260315-0075;2026-03-15;11:23;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0076;2026-03-15;11:34;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0076;2026-03-15;11:34;001;Pain de campagne;Pains;1;3,50
+A260315-0077;2026-03-15;11:52;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0077;2026-03-15;11:52;001;Cookie;Pâtisseries;1;1,80
+A260315-0078;2026-03-15;11:58;001;Éclair café;Pâtisseries;1;2,80
+A260315-0079;2026-03-15;12:04;001;Baguette tradition;Pains;1;1,30
+A260315-0080;2026-03-15;12:05;001;Quiche lorraine;Snacking;1;4,20
+A260315-0081;2026-03-15;12:06;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0082;2026-03-15;12:07;001;Baguette tradition;Pains;1;1,30
+A260315-0082;2026-03-15;12:07;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0083;2026-03-15;12:07;001;Pain de campagne;Pains;1;3,50
+A260315-0084;2026-03-15;12:09;001;Baguette tradition;Pains;2;2,60
+A260315-0085;2026-03-15;12:10;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260315-0086;2026-03-15;12:11;001;Pain au chocolat;Viennoiseries;2;2,80
+A260315-0086;2026-03-15;12:11;001;Baguette tradition;Pains;1;1,30
+A260315-0086;2026-03-15;12:11;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0087;2026-03-15;12:11;001;Baguette tradition;Pains;1;1,30
+A260315-0088;2026-03-15;12:12;001;Croissant;Viennoiseries;1;1,20
+A260315-0089;2026-03-15;12:12;001;Baguette tradition;Pains;1;1,30
+A260315-0089;2026-03-15;12:12;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0090;2026-03-15;12:18;001;Baguette tradition;Pains;1;1,30
+A260315-0091;2026-03-15;12:18;001;Formule déjeuner;Snacking;1;8,90
+A260315-0092;2026-03-15;12:19;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0092;2026-03-15;12:19;001;Cookie;Pâtisseries;1;1,80
+A260315-0093;2026-03-15;12:23;001;Baguette tradition;Pains;1;1,30
+A260315-0093;2026-03-15;12:23;001;Formule déjeuner;Snacking;2;17,80
+A260315-0094;2026-03-15;12:26;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0094;2026-03-15;12:26;001;Baguette tradition;Pains;3;3,90
+A260315-0095;2026-03-15;12:29;001;Pain de campagne;Pains;1;3,50
+A260315-0095;2026-03-15;12:29;001;Croissant;Viennoiseries;1;1,20
+A260315-0096;2026-03-15;12:30;001;Baguette tradition;Pains;2;2,60
+A260315-0097;2026-03-15;12:32;001;Baguette tradition;Pains;1;1,30
+A260315-0097;2026-03-15;12:32;001;Formule déjeuner;Snacking;1;8,90
+A260315-0098;2026-03-15;12:32;001;Baguette tradition;Pains;2;2,60
+A260315-0098;2026-03-15;12:32;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0099;2026-03-15;12:33;001;Éclair café;Pâtisseries;2;5,60
+A260315-0100;2026-03-15;12:34;001;Baguette tradition;Pains;1;1,30
+A260315-0101;2026-03-15;12:35;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0102;2026-03-15;12:37;001;Baguette tradition;Pains;3;3,90
+A260315-0102;2026-03-15;12:37;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0103;2026-03-15;12:45;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0103;2026-03-15;12:45;001;Quiche lorraine;Snacking;1;4,20
+A260315-0104;2026-03-15;12:45;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0105;2026-03-15;12:50;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0105;2026-03-15;12:50;001;Éclair café;Pâtisseries;1;2,80
+A260315-0105;2026-03-15;12:50;001;Baguette tradition;Pains;1;1,30
+A260315-0106;2026-03-15;12:52;001;Croissant;Viennoiseries;1;1,20
+A260315-0107;2026-03-15;12:52;001;Quiche lorraine;Snacking;1;4,20
+A260315-0108;2026-03-15;12:54;001;Croissant;Viennoiseries;2;2,40
+A260315-0109;2026-03-15;12:55;001;Cookie;Pâtisseries;1;1,80
+A260315-0110;2026-03-15;12:58;001;Croissant;Viennoiseries;2;2,40
+A260315-0111;2026-03-15;12:58;001;Formule déjeuner;Snacking;2;17,80
+A260315-0112;2026-03-15;13:03;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0113;2026-03-15;13:03;001;Pain au chocolat;Viennoiseries;2;2,80
+A260315-0113;2026-03-15;13:03;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260315-0114;2026-03-15;13:04;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0114;2026-03-15;13:04;001;Baguette tradition;Pains;1;1,30
+A260315-0115;2026-03-15;13:06;001;Baguette tradition;Pains;1;1,30
+A260315-0116;2026-03-15;13:09;001;Éclair café;Pâtisseries;1;2,80
+A260315-0117;2026-03-15;13:12;001;Cookie;Pâtisseries;1;1,80
+A260315-0118;2026-03-15;13:13;001;Baguette tradition;Pains;2;2,60
+A260315-0119;2026-03-15;13:14;001;Croissant;Viennoiseries;1;1,20
+A260315-0120;2026-03-15;13:16;001;Formule déjeuner;Snacking;1;8,90
+A260315-0121;2026-03-15;13:23;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0121;2026-03-15;13:23;001;Baguette tradition;Pains;3;3,90
+A260315-0122;2026-03-15;13:26;001;Quiche lorraine;Snacking;1;4,20
+A260315-0123;2026-03-15;13:26;001;Baguette tradition;Pains;2;2,60
+A260315-0123;2026-03-15;13:26;001;Pain de campagne;Pains;2;7,00
+A260315-0124;2026-03-15;13:26;001;Croissant;Viennoiseries;2;2,40
+A260315-0125;2026-03-15;13:28;001;Croissant;Viennoiseries;1;1,20
+A260315-0126;2026-03-15;13:29;001;Quiche lorraine;Snacking;1;4,20
+A260315-0127;2026-03-15;13:30;001;Pain de campagne;Pains;1;3,50
+A260315-0127;2026-03-15;13:30;001;Croissant;Viennoiseries;1;1,20
+A260315-0128;2026-03-15;13:31;001;Pain au chocolat;Viennoiseries;2;2,80
+A260315-0128;2026-03-15;13:31;001;Cookie;Pâtisseries;2;3,60
+A260315-0129;2026-03-15;13:39;001;Baguette tradition;Pains;2;2,60
+A260315-0129;2026-03-15;13:39;001;Formule déjeuner;Snacking;1;8,90
+A260315-0130;2026-03-15;13:40;001;Quiche lorraine;Snacking;1;4,20
+A260315-0130;2026-03-15;13:40;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0131;2026-03-15;13:44;001;Baguette tradition;Pains;2;2,60
+A260315-0132;2026-03-15;13:47;001;Baguette tradition;Pains;1;1,30
+A260315-0133;2026-03-15;13:48;001;Croissant;Viennoiseries;1;1,20
+A260315-0134;2026-03-15;13:52;001;Baguette tradition;Pains;1;1,30
+A260315-0134;2026-03-15;13:52;001;Formule déjeuner;Snacking;1;8,90
+A260315-0134;2026-03-15;13:52;001;Cookie;Pâtisseries;2;3,60
+A260315-0135;2026-03-15;13:57;001;Croissant;Viennoiseries;2;2,40
+A260315-0136;2026-03-15;13:57;001;Croissant;Viennoiseries;1;1,20
+A260315-0137;2026-03-15;14:08;001;Baguette tradition;Pains;1;1,30
+A260315-0137;2026-03-15;14:08;001;Croissant;Viennoiseries;1;1,20
+A260315-0138;2026-03-15;14:08;001;Baguette tradition;Pains;1;1,30
+A260315-0138;2026-03-15;14:08;001;Cookie;Pâtisseries;1;1,80
+A260315-0139;2026-03-15;14:20;001;Quiche lorraine;Snacking;2;8,40
+A260315-0139;2026-03-15;14:20;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0140;2026-03-15;14:50;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0141;2026-03-15;14:55;001;Pain de campagne;Pains;2;7,00
+A260315-0141;2026-03-15;14:55;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0142;2026-03-15;15:14;001;Croissant;Viennoiseries;1;1,20
+A260315-0143;2026-03-15;15:23;001;Éclair café;Pâtisseries;1;2,80
+A260315-0143;2026-03-15;15:23;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0144;2026-03-15;15:47;001;Quiche lorraine;Snacking;1;4,20
+A260315-0145;2026-03-15;16:02;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0146;2026-03-15;16:20;001;Quiche lorraine;Snacking;1;4,20
+A260315-0147;2026-03-15;16:22;001;Formule déjeuner;Snacking;1;8,90
+A260315-0147;2026-03-15;16:22;001;Croissant;Viennoiseries;1;1,20
+A260315-0148;2026-03-15;16:30;001;Quiche lorraine;Snacking;1;4,20
+A260315-0149;2026-03-15;16:52;001;Formule déjeuner;Snacking;1;8,90
+A260315-0150;2026-03-15;16:55;001;Formule déjeuner;Snacking;1;8,90
+A260315-0150;2026-03-15;16:55;001;Baguette tradition;Pains;4;5,20
+A260315-0151;2026-03-15;17:00;001;Baguette tradition;Pains;1;1,30
+A260315-0152;2026-03-15;17:06;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0153;2026-03-15;17:09;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0154;2026-03-15;17:13;001;Pain de campagne;Pains;1;3,50
+A260315-0154;2026-03-15;17:13;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0155;2026-03-15;17:13;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0155;2026-03-15;17:13;001;Baguette tradition;Pains;3;3,90
+A260315-0156;2026-03-15;17:18;001;Baguette tradition;Pains;1;1,30
+A260315-0156;2026-03-15;17:18;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0157;2026-03-15;17:21;001;Formule déjeuner;Snacking;2;17,80
+A260315-0158;2026-03-15;17:23;001;Baguette tradition;Pains;2;2,60
+A260315-0159;2026-03-15;17:26;001;Croissant;Viennoiseries;1;1,20
+A260315-0160;2026-03-15;17:29;001;Quiche lorraine;Snacking;1;4,20
+A260315-0160;2026-03-15;17:29;001;Pain au chocolat;Viennoiseries;2;2,80
+A260315-0161;2026-03-15;17:30;001;Formule déjeuner;Snacking;1;8,90
+A260315-0162;2026-03-15;17:30;001;Baguette tradition;Pains;2;2,60
+A260315-0163;2026-03-15;17:30;001;Croissant;Viennoiseries;1;1,20
+A260315-0164;2026-03-15;17:34;001;Quiche lorraine;Snacking;2;8,40
+A260315-0164;2026-03-15;17:34;001;Baguette tradition;Pains;1;1,30
+A260315-0165;2026-03-15;17:38;001;Quiche lorraine;Snacking;2;8,40
+A260315-0166;2026-03-15;17:45;001;Éclair café;Pâtisseries;1;2,80
+A260315-0166;2026-03-15;17:45;001;Baguette tradition;Pains;1;1,30
+A260315-0166;2026-03-15;17:45;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0167;2026-03-15;17:48;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260315-0168;2026-03-15;17:50;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0169;2026-03-15;17:53;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0170;2026-03-15;18:00;001;Pain au chocolat;Viennoiseries;2;2,80
+A260315-0171;2026-03-15;18:02;001;Cookie;Pâtisseries;2;3,60
+A260315-0171;2026-03-15;18:02;001;Quiche lorraine;Snacking;1;4,20
+A260315-0172;2026-03-15;18:05;001;Quiche lorraine;Snacking;1;4,20
+A260315-0172;2026-03-15;18:05;001;Croissant;Viennoiseries;2;2,40
+A260315-0172;2026-03-15;18:05;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0173;2026-03-15;18:11;001;Cookie;Pâtisseries;1;1,80
+A260315-0174;2026-03-15;18:17;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0175;2026-03-15;18:18;001;Baguette tradition;Pains;1;1,30
+A260315-0176;2026-03-15;18:22;001;Formule déjeuner;Snacking;2;17,80
+A260315-0177;2026-03-15;18:31;001;Baguette tradition;Pains;1;1,30
+A260315-0178;2026-03-15;18:55;001;Croissant;Viennoiseries;1;1,20
+A260315-0178;2026-03-15;18:55;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0178;2026-03-15;18:55;001;Éclair café;Pâtisseries;1;2,80
+A260315-0179;2026-03-15;19:05;001;Croissant;Viennoiseries;1;1,20
+A260315-0179;2026-03-15;19:05;001;Baguette tradition;Pains;1;1,30
+A260315-0180;2026-03-15;19:10;001;Cookie;Pâtisseries;1;1,80
+A260315-0181;2026-03-15;19:19;001;Formule déjeuner;Snacking;1;8,90
+A260315-0181;2026-03-15;19:19;001;Éclair café;Pâtisseries;2;5,60
+A260315-0182;2026-03-15;19:28;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0182;2026-03-15;19:28;001;Baguette tradition;Pains;3;3,90
+A260315-0183;2026-03-15;19:29;001;Cookie;Pâtisseries;2;3,60
+A260315-0184;2026-03-15;19:30;001;Formule déjeuner;Snacking;1;8,90
+A260315-0184;2026-03-15;19:30;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260315-0185;2026-03-15;19:32;001;Baguette tradition;Pains;1;1,30
+A260315-0186;2026-03-15;19:35;001;Quiche lorraine;Snacking;1;4,20
+A260315-0187;2026-03-15;19:36;001;Pain au chocolat;Viennoiseries;2;2,80
+A260315-0187;2026-03-15;19:36;001;Baguette tradition;Pains;1;1,30
+A260315-0188;2026-03-15;19:39;001;Baguette tradition;Pains;1;1,30
+A260315-0188;2026-03-15;19:39;001;Cookie;Pâtisseries;1;1,80
+A260315-0189;2026-03-15;19:41;001;Formule déjeuner;Snacking;1;8,90
+A260315-0190;2026-03-15;19:42;001;Baguette tradition;Pains;1;1,30
+A260315-0191;2026-03-15;19:48;001;Croissant;Viennoiseries;1;1,20
+A260315-0191;2026-03-15;19:48;001;Baguette tradition;Pains;2;2,60
+A260315-0192;2026-03-15;19:48;001;Formule déjeuner;Snacking;1;8,90
+A260315-0193;2026-03-15;19:52;001;Éclair café;Pâtisseries;2;5,60
+A260315-0194;2026-03-15;19:55;001;Pain au chocolat;Viennoiseries;1;1,40
+A260315-0194;2026-03-15;19:55;001;Cookie;Pâtisseries;1;1,80
+A260315-0194;2026-03-15;19:55;001;Formule déjeuner;Snacking;1;8,90
+A260315-0195;2026-03-15;19:57;001;Baguette tradition;Pains;1;1,30
+A260315-0196;2026-03-15;19:58;001;Formule déjeuner;Snacking;1;8,90
+A260314-0001;2026-03-14;07:00;001;Baguette tradition;Pains;2;2,60
+A260314-0002;2026-03-14;07:02;001;Pain de campagne;Pains;1;3,50
+A260314-0003;2026-03-14;07:02;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0003;2026-03-14;07:02;001;Éclair café;Pâtisseries;1;2,80
+A260314-0004;2026-03-14;07:03;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0005;2026-03-14;07:04;001;Cookie;Pâtisseries;1;1,80
+A260314-0006;2026-03-14;07:06;001;Quiche lorraine;Snacking;1;4,20
+A260314-0007;2026-03-14;07:11;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0008;2026-03-14;07:13;001;Croissant;Viennoiseries;1;1,20
+A260314-0009;2026-03-14;07:15;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0009;2026-03-14;07:15;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0010;2026-03-14;07:16;001;Baguette tradition;Pains;2;2,60
+A260314-0011;2026-03-14;07:22;001;Quiche lorraine;Snacking;1;4,20
+A260314-0012;2026-03-14;07:24;001;Cookie;Pâtisseries;1;1,80
+A260314-0012;2026-03-14;07:24;001;Baguette tradition;Pains;1;1,30
+A260314-0013;2026-03-14;07:27;001;Baguette tradition;Pains;1;1,30
+A260314-0014;2026-03-14;07:27;001;Baguette tradition;Pains;2;2,60
+A260314-0015;2026-03-14;07:28;001;Formule déjeuner;Snacking;1;8,90
+A260314-0015;2026-03-14;07:28;001;Baguette tradition;Pains;1;1,30
+A260314-0015;2026-03-14;07:28;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0016;2026-03-14;07:31;001;Croissant;Viennoiseries;1;1,20
+A260314-0017;2026-03-14;07:32;001;Cookie;Pâtisseries;1;1,80
+A260314-0018;2026-03-14;07:34;001;Formule déjeuner;Snacking;2;17,80
+A260314-0019;2026-03-14;07:35;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0019;2026-03-14;07:35;001;Éclair café;Pâtisseries;1;2,80
+A260314-0020;2026-03-14;07:39;001;Croissant;Viennoiseries;1;1,20
+A260314-0020;2026-03-14;07:39;001;Formule déjeuner;Snacking;1;8,90
+A260314-0021;2026-03-14;07:40;001;Baguette tradition;Pains;2;2,60
+A260314-0022;2026-03-14;07:41;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0023;2026-03-14;07:44;001;Baguette tradition;Pains;2;2,60
+A260314-0024;2026-03-14;07:53;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0025;2026-03-14;07:56;001;Baguette tradition;Pains;1;1,30
+A260314-0026;2026-03-14;07:59;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0027;2026-03-14;07:59;001;Formule déjeuner;Snacking;1;8,90
+A260314-0027;2026-03-14;07:59;001;Baguette tradition;Pains;1;1,30
+A260314-0028;2026-03-14;08:01;001;Formule déjeuner;Snacking;1;8,90
+A260314-0029;2026-03-14;08:04;001;Pain de campagne;Pains;2;7,00
+A260314-0029;2026-03-14;08:04;001;Baguette tradition;Pains;1;1,30
+A260314-0030;2026-03-14;08:08;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0031;2026-03-14;08:09;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0031;2026-03-14;08:09;001;Baguette tradition;Pains;1;1,30
+A260314-0032;2026-03-14;08:12;001;Cookie;Pâtisseries;1;1,80
+A260314-0032;2026-03-14;08:12;001;Pain de campagne;Pains;1;3,50
+A260314-0033;2026-03-14;08:12;001;Baguette tradition;Pains;1;1,30
+A260314-0034;2026-03-14;08:14;001;Pain de campagne;Pains;1;3,50
+A260314-0034;2026-03-14;08:14;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0035;2026-03-14;08:18;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0036;2026-03-14;08:20;001;Baguette tradition;Pains;2;2,60
+A260314-0036;2026-03-14;08:20;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260314-0037;2026-03-14;08:22;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260314-0038;2026-03-14;08:28;001;Pain de campagne;Pains;1;3,50
+A260314-0038;2026-03-14;08:28;001;Croissant;Viennoiseries;1;1,20
+A260314-0038;2026-03-14;08:28;001;Cookie;Pâtisseries;1;1,80
+A260314-0039;2026-03-14;08:32;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0040;2026-03-14;08:32;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0040;2026-03-14;08:32;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0041;2026-03-14;08:33;001;Baguette tradition;Pains;1;1,30
+A260314-0041;2026-03-14;08:33;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0041;2026-03-14;08:33;001;Formule déjeuner;Snacking;1;8,90
+A260314-0042;2026-03-14;08:34;001;Croissant;Viennoiseries;1;1,20
+A260314-0042;2026-03-14;08:34;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0042;2026-03-14;08:34;001;Baguette tradition;Pains;1;1,30
+A260314-0043;2026-03-14;08:35;001;Formule déjeuner;Snacking;1;8,90
+A260314-0044;2026-03-14;08:37;001;Croissant;Viennoiseries;1;1,20
+A260314-0045;2026-03-14;08:38;001;Croissant;Viennoiseries;1;1,20
+A260314-0045;2026-03-14;08:38;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0046;2026-03-14;08:38;001;Croissant;Viennoiseries;1;1,20
+A260314-0047;2026-03-14;08:43;001;Éclair café;Pâtisseries;1;2,80
+A260314-0047;2026-03-14;08:43;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0048;2026-03-14;08:50;001;Éclair café;Pâtisseries;1;2,80
+A260314-0048;2026-03-14;08:50;001;Croissant;Viennoiseries;1;1,20
+A260314-0049;2026-03-14;08:56;001;Quiche lorraine;Snacking;1;4,20
+A260314-0050;2026-03-14;08:56;001;Quiche lorraine;Snacking;1;4,20
+A260314-0051;2026-03-14;08:56;001;Baguette tradition;Pains;1;1,30
+A260314-0052;2026-03-14;08:59;001;Éclair café;Pâtisseries;1;2,80
+A260314-0052;2026-03-14;08:59;001;Cookie;Pâtisseries;1;1,80
+A260314-0053;2026-03-14;09:07;001;Cookie;Pâtisseries;1;1,80
+A260314-0054;2026-03-14;09:19;001;Sandwich jambon-beurre;Snacking;3;14,70
+A260314-0055;2026-03-14;09:20;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0055;2026-03-14;09:20;001;Baguette tradition;Pains;1;1,30
+A260314-0056;2026-03-14;09:33;001;Baguette tradition;Pains;1;1,30
+A260314-0057;2026-03-14;09:33;001;Baguette tradition;Pains;3;3,90
+A260314-0057;2026-03-14;09:33;001;Formule déjeuner;Snacking;2;17,80
+A260314-0058;2026-03-14;09:42;001;Baguette tradition;Pains;1;1,30
+A260314-0059;2026-03-14;09:46;001;Baguette tradition;Pains;3;3,90
+A260314-0060;2026-03-14;09:46;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0060;2026-03-14;09:46;001;Baguette tradition;Pains;2;2,60
+A260314-0061;2026-03-14;09:49;001;Cookie;Pâtisseries;1;1,80
+A260314-0061;2026-03-14;09:49;001;Baguette tradition;Pains;2;2,60
+A260314-0062;2026-03-14;09:55;001;Quiche lorraine;Snacking;1;4,20
+A260314-0063;2026-03-14;09:59;001;Cookie;Pâtisseries;1;1,80
+A260314-0064;2026-03-14;10:07;001;Baguette tradition;Pains;2;2,60
+A260314-0065;2026-03-14;10:08;001;Pain de campagne;Pains;3;10,50
+A260314-0066;2026-03-14;10:14;001;Baguette tradition;Pains;1;1,30
+A260314-0067;2026-03-14;10:15;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0068;2026-03-14;10:22;001;Pain de campagne;Pains;1;3,50
+A260314-0069;2026-03-14;10:22;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0069;2026-03-14;10:22;001;Croissant;Viennoiseries;1;1,20
+A260314-0070;2026-03-14;10:28;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0071;2026-03-14;10:35;001;Baguette tradition;Pains;1;1,30
+A260314-0072;2026-03-14;10:36;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0073;2026-03-14;10:39;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0074;2026-03-14;10:42;001;Croissant;Viennoiseries;1;1,20
+A260314-0075;2026-03-14;10:42;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260314-0076;2026-03-14;10:42;001;Formule déjeuner;Snacking;1;8,90
+A260314-0077;2026-03-14;10:59;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0077;2026-03-14;10:59;001;Quiche lorraine;Snacking;1;4,20
+A260314-0078;2026-03-14;11:03;001;Formule déjeuner;Snacking;2;17,80
+A260314-0079;2026-03-14;11:12;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0080;2026-03-14;11:27;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0080;2026-03-14;11:27;001;Baguette tradition;Pains;2;2,60
+A260314-0081;2026-03-14;11:34;001;Éclair café;Pâtisseries;1;2,80
+A260314-0081;2026-03-14;11:34;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0082;2026-03-14;11:45;001;Éclair café;Pâtisseries;1;2,80
+A260314-0082;2026-03-14;11:45;001;Baguette tradition;Pains;1;1,30
+A260314-0083;2026-03-14;11:46;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0084;2026-03-14;11:54;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0084;2026-03-14;11:54;001;Baguette tradition;Pains;2;2,60
+A260314-0085;2026-03-14;12:01;001;Croissant;Viennoiseries;1;1,20
+A260314-0085;2026-03-14;12:01;001;Formule déjeuner;Snacking;1;8,90
+A260314-0086;2026-03-14;12:02;001;Croissant;Viennoiseries;1;1,20
+A260314-0087;2026-03-14;12:07;001;Cookie;Pâtisseries;1;1,80
+A260314-0088;2026-03-14;12:08;001;Formule déjeuner;Snacking;1;8,90
+A260314-0089;2026-03-14;12:09;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0090;2026-03-14;12:12;001;Baguette tradition;Pains;3;3,90
+A260314-0090;2026-03-14;12:12;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0091;2026-03-14;12:13;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0091;2026-03-14;12:13;001;Formule déjeuner;Snacking;1;8,90
+A260314-0092;2026-03-14;12:15;001;Baguette tradition;Pains;1;1,30
+A260314-0092;2026-03-14;12:15;001;Formule déjeuner;Snacking;1;8,90
+A260314-0092;2026-03-14;12:15;001;Croissant;Viennoiseries;1;1,20
+A260314-0093;2026-03-14;12:15;001;Baguette tradition;Pains;2;2,60
+A260314-0093;2026-03-14;12:15;001;Éclair café;Pâtisseries;2;5,60
+A260314-0094;2026-03-14;12:16;001;Baguette tradition;Pains;2;2,60
+A260314-0095;2026-03-14;12:16;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0096;2026-03-14;12:20;001;Croissant;Viennoiseries;1;1,20
+A260314-0096;2026-03-14;12:20;001;Éclair café;Pâtisseries;1;2,80
+A260314-0097;2026-03-14;12:21;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0097;2026-03-14;12:21;001;Croissant;Viennoiseries;1;1,20
+A260314-0097;2026-03-14;12:21;001;Baguette tradition;Pains;3;3,90
+A260314-0098;2026-03-14;12:21;001;Baguette tradition;Pains;1;1,30
+A260314-0099;2026-03-14;12:23;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0100;2026-03-14;12:24;001;Formule déjeuner;Snacking;1;8,90
+A260314-0100;2026-03-14;12:24;001;Éclair café;Pâtisseries;2;5,60
+A260314-0101;2026-03-14;12:26;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0102;2026-03-14;12:27;001;Croissant;Viennoiseries;1;1,20
+A260314-0103;2026-03-14;12:29;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0104;2026-03-14;12:30;001;Croissant;Viennoiseries;2;2,40
+A260314-0105;2026-03-14;12:32;001;Baguette tradition;Pains;3;3,90
+A260314-0105;2026-03-14;12:32;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0106;2026-03-14;12:33;001;Baguette tradition;Pains;2;2,60
+A260314-0107;2026-03-14;12:35;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0108;2026-03-14;12:38;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0109;2026-03-14;12:44;001;Formule déjeuner;Snacking;1;8,90
+A260314-0110;2026-03-14;12:46;001;Baguette tradition;Pains;1;1,30
+A260314-0111;2026-03-14;12:48;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0111;2026-03-14;12:48;001;Baguette tradition;Pains;1;1,30
+A260314-0112;2026-03-14;12:49;001;Formule déjeuner;Snacking;1;8,90
+A260314-0112;2026-03-14;12:49;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0113;2026-03-14;12:54;001;Croissant;Viennoiseries;2;2,40
+A260314-0114;2026-03-14;12:55;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0114;2026-03-14;12:55;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0115;2026-03-14;13:00;001;Quiche lorraine;Snacking;2;8,40
+A260314-0116;2026-03-14;13:03;001;Formule déjeuner;Snacking;1;8,90
+A260314-0116;2026-03-14;13:03;001;Baguette tradition;Pains;3;3,90
+A260314-0117;2026-03-14;13:09;001;Cookie;Pâtisseries;1;1,80
+A260314-0117;2026-03-14;13:09;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0118;2026-03-14;13:12;001;Baguette tradition;Pains;1;1,30
+A260314-0119;2026-03-14;13:20;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0120;2026-03-14;13:20;001;Cookie;Pâtisseries;1;1,80
+A260314-0121;2026-03-14;13:23;001;Baguette tradition;Pains;3;3,90
+A260314-0122;2026-03-14;13:35;001;Quiche lorraine;Snacking;1;4,20
+A260314-0122;2026-03-14;13:35;001;Baguette tradition;Pains;1;1,30
+A260314-0123;2026-03-14;13:35;001;Baguette tradition;Pains;3;3,90
+A260314-0124;2026-03-14;13:42;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0124;2026-03-14;13:42;001;Baguette tradition;Pains;1;1,30
+A260314-0125;2026-03-14;13:45;001;Pain de campagne;Pains;3;10,50
+A260314-0126;2026-03-14;13:46;001;Baguette tradition;Pains;1;1,30
+A260314-0127;2026-03-14;13:49;001;Baguette tradition;Pains;1;1,30
+A260314-0127;2026-03-14;13:49;001;Formule déjeuner;Snacking;1;8,90
+A260314-0128;2026-03-14;13:52;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0128;2026-03-14;13:52;001;Éclair café;Pâtisseries;1;2,80
+A260314-0129;2026-03-14;13:52;001;Baguette tradition;Pains;3;3,90
+A260314-0130;2026-03-14;13:55;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0131;2026-03-14;13:56;001;Baguette tradition;Pains;1;1,30
+A260314-0131;2026-03-14;13:56;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0132;2026-03-14;13:59;001;Croissant;Viennoiseries;1;1,20
+A260314-0132;2026-03-14;13:59;001;Quiche lorraine;Snacking;1;4,20
+A260314-0133;2026-03-14;14:08;001;Croissant;Viennoiseries;1;1,20
+A260314-0134;2026-03-14;14:10;001;Quiche lorraine;Snacking;1;4,20
+A260314-0134;2026-03-14;14:10;001;Croissant;Viennoiseries;1;1,20
+A260314-0135;2026-03-14;14:12;001;Baguette tradition;Pains;2;2,60
+A260314-0136;2026-03-14;14:15;001;Cookie;Pâtisseries;1;1,80
+A260314-0137;2026-03-14;14:48;001;Cookie;Pâtisseries;1;1,80
+A260314-0137;2026-03-14;14:48;001;Baguette tradition;Pains;2;2,60
+A260314-0138;2026-03-14;15:03;001;Cookie;Pâtisseries;1;1,80
+A260314-0138;2026-03-14;15:03;001;Éclair café;Pâtisseries;2;5,60
+A260314-0139;2026-03-14;15:47;001;Pain de campagne;Pains;1;3,50
+A260314-0140;2026-03-14;15:55;001;Croissant;Viennoiseries;1;1,20
+A260314-0140;2026-03-14;15:55;001;Quiche lorraine;Snacking;1;4,20
+A260314-0141;2026-03-14;15:57;001;Baguette tradition;Pains;1;1,30
+A260314-0141;2026-03-14;15:57;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0142;2026-03-14;16:16;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0143;2026-03-14;16:25;001;Baguette tradition;Pains;1;1,30
+A260314-0144;2026-03-14;16:32;001;Baguette tradition;Pains;1;1,30
+A260314-0145;2026-03-14;16:41;001;Baguette tradition;Pains;1;1,30
+A260314-0146;2026-03-14;16:52;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0146;2026-03-14;16:52;001;Cookie;Pâtisseries;1;1,80
+A260314-0146;2026-03-14;16:52;001;Quiche lorraine;Snacking;1;4,20
+A260314-0147;2026-03-14;17:06;001;Baguette tradition;Pains;1;1,30
+A260314-0147;2026-03-14;17:06;001;Éclair café;Pâtisseries;1;2,80
+A260314-0148;2026-03-14;17:08;001;Éclair café;Pâtisseries;1;2,80
+A260314-0148;2026-03-14;17:08;001;Baguette tradition;Pains;1;1,30
+A260314-0148;2026-03-14;17:08;001;Cookie;Pâtisseries;1;1,80
+A260314-0149;2026-03-14;17:09;001;Pain de campagne;Pains;1;3,50
+A260314-0149;2026-03-14;17:09;001;Éclair café;Pâtisseries;1;2,80
+A260314-0149;2026-03-14;17:09;001;Croissant;Viennoiseries;1;1,20
+A260314-0150;2026-03-14;17:11;001;Formule déjeuner;Snacking;1;8,90
+A260314-0151;2026-03-14;17:18;001;Baguette tradition;Pains;3;3,90
+A260314-0152;2026-03-14;17:20;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0153;2026-03-14;17:23;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0153;2026-03-14;17:23;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0153;2026-03-14;17:23;001;Formule déjeuner;Snacking;1;8,90
+A260314-0154;2026-03-14;17:35;001;Éclair café;Pâtisseries;1;2,80
+A260314-0154;2026-03-14;17:35;001;Baguette tradition;Pains;1;1,30
+A260314-0155;2026-03-14;17:36;001;Baguette tradition;Pains;1;1,30
+A260314-0155;2026-03-14;17:36;001;Éclair café;Pâtisseries;1;2,80
+A260314-0156;2026-03-14;17:38;001;Cookie;Pâtisseries;1;1,80
+A260314-0156;2026-03-14;17:38;001;Pain de campagne;Pains;1;3,50
+A260314-0157;2026-03-14;17:40;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0157;2026-03-14;17:40;001;Cookie;Pâtisseries;1;1,80
+A260314-0157;2026-03-14;17:40;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0158;2026-03-14;17:41;001;Formule déjeuner;Snacking;1;8,90
+A260314-0158;2026-03-14;17:41;001;Baguette tradition;Pains;3;3,90
+A260314-0159;2026-03-14;17:43;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0159;2026-03-14;17:43;001;Cookie;Pâtisseries;1;1,80
+A260314-0160;2026-03-14;17:46;001;Croissant;Viennoiseries;1;1,20
+A260314-0160;2026-03-14;17:46;001;Cookie;Pâtisseries;1;1,80
+A260314-0161;2026-03-14;17:55;001;Cookie;Pâtisseries;1;1,80
+A260314-0162;2026-03-14;17:55;001;Quiche lorraine;Snacking;1;4,20
+A260314-0163;2026-03-14;17:57;001;Baguette tradition;Pains;1;1,30
+A260314-0164;2026-03-14;18:00;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260314-0165;2026-03-14;18:05;001;Croissant;Viennoiseries;1;1,20
+A260314-0165;2026-03-14;18:05;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0166;2026-03-14;18:12;001;Baguette tradition;Pains;2;2,60
+A260314-0167;2026-03-14;18:19;001;Pain au chocolat;Viennoiseries;2;2,80
+A260314-0168;2026-03-14;18:21;001;Formule déjeuner;Snacking;1;8,90
+A260314-0169;2026-03-14;18:22;001;Baguette tradition;Pains;3;3,90
+A260314-0169;2026-03-14;18:22;001;Formule déjeuner;Snacking;1;8,90
+A260314-0170;2026-03-14;18:26;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0170;2026-03-14;18:26;001;Éclair café;Pâtisseries;1;2,80
+A260314-0171;2026-03-14;18:33;001;Cookie;Pâtisseries;1;1,80
+A260314-0171;2026-03-14;18:33;001;Baguette tradition;Pains;1;1,30
+A260314-0172;2026-03-14;18:38;001;Éclair café;Pâtisseries;1;2,80
+A260314-0173;2026-03-14;18:39;001;Baguette tradition;Pains;2;2,60
+A260314-0174;2026-03-14;18:51;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0174;2026-03-14;18:51;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0175;2026-03-14;18:52;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0176;2026-03-14;18:54;001;Formule déjeuner;Snacking;1;8,90
+A260314-0177;2026-03-14;18:55;001;Cookie;Pâtisseries;1;1,80
+A260314-0177;2026-03-14;18:55;001;Croissant;Viennoiseries;2;2,40
+A260314-0178;2026-03-14;19:03;001;Baguette tradition;Pains;2;2,60
+A260314-0178;2026-03-14;19:03;001;Formule déjeuner;Snacking;1;8,90
+A260314-0179;2026-03-14;19:10;001;Croissant;Viennoiseries;1;1,20
+A260314-0179;2026-03-14;19:10;001;Baguette tradition;Pains;1;1,30
+A260314-0180;2026-03-14;19:12;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0180;2026-03-14;19:12;001;Cookie;Pâtisseries;1;1,80
+A260314-0181;2026-03-14;19:15;001;Formule déjeuner;Snacking;1;8,90
+A260314-0182;2026-03-14;19:15;001;Baguette tradition;Pains;2;2,60
+A260314-0183;2026-03-14;19:17;001;Sandwich jambon-beurre;Snacking;2;9,80
+A260314-0184;2026-03-14;19:21;001;Formule déjeuner;Snacking;1;8,90
+A260314-0185;2026-03-14;19:23;001;Baguette tradition;Pains;1;1,30
+A260314-0185;2026-03-14;19:23;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0186;2026-03-14;19:24;001;Sandwich jambon-beurre;Snacking;1;4,90
+A260314-0186;2026-03-14;19:24;001;Baguette tradition;Pains;1;1,30
+A260314-0186;2026-03-14;19:24;001;Cookie;Pâtisseries;1;1,80
+A260314-0187;2026-03-14;19:36;001;Croissant;Viennoiseries;1;1,20
+A260314-0187;2026-03-14;19:36;001;Baguette tradition;Pains;1;1,30
+A260314-0188;2026-03-14;19:50;001;Baguette tradition;Pains;1;1,30
+A260314-0189;2026-03-14;19:55;001;Pain au chocolat;Viennoiseries;1;1,40
+A260314-0189;2026-03-14;19:55;001;Formule déjeuner;Snacking;1;8,90
+A260314-0190;2026-03-14;19:59;001;Baguette tradition;Pains;2;2,60
